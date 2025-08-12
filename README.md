@@ -31,7 +31,6 @@
   <a href="#tech-stack">Tech</a> ·
   <a href="#principles">Principles</a> ·
   <a href="#roadmap">Roadmap</a> ·
-  <a href="#toolbelt">Toolbelt</a> ·
   <a href="#contact">Contact</a>
 </p>
 
@@ -109,23 +108,6 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 - Advanced network troubleshooting (packet capture & analysis) — **▰▰▰▱▱**  
 - Java: testable modules, separate CLI/service, clean packaging — **▰▰▱▱▱**  
 - Cloud: least‑privilege IAM, network isolation, cost guardrails — **▰▰▰▱▱**
-
----
-
-## Toolbelt
-
-`Java` · `Bash` · `Git` · `TCP/IP` · `DNS/DHCP` · `Routing/Switching` · `Firewall Basics` · `Monitoring`
-
-<details>
-  <summary><b>Ops Snippets</b> (quick copy‑paste)</summary>
-
-```bash
-# Quick HTTP check (returns status code)
-curl -s -o /dev/null -w "%{http_code}
-" https://google.com
-```
-
-</details>
 
 ---
 
