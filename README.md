@@ -31,7 +31,7 @@
   <a href="#tech-stack">Tech</a> ·
   <a href="#principles">Principles</a> ·
   <a href="#roadmap">Roadmap</a> .
-  <a href="#contacts">Roadmap</a>
+  <a href="#contacts">Contacts</a>
 </p>
 
 ---
@@ -129,4 +129,5 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
   </a> -->
 </p>
 
+---
 <!-- End of README -->
