@@ -41,7 +41,7 @@
 
 ---
 
-### About
+### About Me
 
 I build dependable network foundations, resolve end‑user issues quickly, and ship small tools that remove toil. Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
 
@@ -53,7 +53,7 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 ---
 
-### Highlights at a Glance
+### Highlights At A Glance
 
 `Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Monitoring` `DNS/DHCP` `Routing/Switching` `Firewall Basics`
 
@@ -76,6 +76,18 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 </details>
 
 ---
+
+### Skills (Diagram)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-bars-dark.svg">
+    <img src="./assets/skills-bars-light.svg" width="100%"
+         alt="Skills — Networking ★★★★☆, IT Help Desk ★★★★☆, Cloud (Foundations) ★★★☆☆, Java for Ops ★★★☆☆, Workflow ★★★★☆">
+  </picture>
+</p>
+
+<!--
 
 ### Skill Matrix
 
@@ -117,6 +129,8 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 </table>
 
 <sub>Legend: ★★★★★ expert · ★★★★☆ strong · ★★★☆☆ solid</sub>
+
+-->
 
 ---
 
