@@ -55,35 +55,6 @@ I build dependable network foundations, resolve end-user issues fast, and write 
 
 ## <span id="projects">Signature Projects</span>
 
-> Replace links with real repositories when ready.
-
-<table>
-  <tr>
-    <td>
-      <b>network-diagnose-cli (Java)</b><br/>
-      One-command checks: ping · traceroute · DNS · HTTP; exports txt/md reports.<br/>
-      <sub>Status: <b>WIP</b> · <a href="https://github.com/thongnguyenslife">Repo</a></sub>
-    </td>
-    <td>
-      <b>helpdesk-kb-playbook</b><br/>
-      Opinionated templates for intake → triage → fix/esc → post-incident notes.<br/>
-      <sub>Status: <b>Draft</b> · <a href="https://github.com/thongnguyenslife">Repo</a></sub>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>cloud-lab-notes</b><br/>
-      Vendor-neutral notes: IAM, VPC/VNet, logging/monitoring, cost guardrails.<br/>
-      <sub>Status: Updating · <a href="https://github.com/thongnguyenslife">Repo</a></sub>
-    </td>
-    <td>
-      <b>endpoint-ops-scripts</b><br/>
-      Small Bash/Java utilities for routine checks and onboarding/offboarding.<br/>
-      <sub>Status: Planned · <a href="https://github.com/thongnguyenslife">Repo</a></sub>
-    </td>
-  </tr>
-</table>
-
 <details>
   <summary><b>Why these matter</b></summary>
   These projects turn repetitive troubleshooting into predictable, documented workflows and make incident recovery faster and less error-prone.
@@ -133,4 +104,4 @@ I build dependable network foundations, resolve end-user issues fast, and write 
 
 ```bash
 # Quick HTTP check (returns status code)
-curl -s -o /dev/null -w "%{http_code}\n" https://example.com
+curl -s -o /dev/null -w "%{http_code}\n" https://google.com
