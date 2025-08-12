@@ -1,6 +1,5 @@
 <!-- =====================================================
-  PROFILE README — THONG NGUYEN HOANG
-  - Banners are in ./assets/
+  PROFILE README — THONG NGUYEN HOANG 
   ===================================================== -->
 
 <!-- NAME + TAGLINE -->
@@ -38,6 +37,8 @@
   <a href="#contact">Contact</a>
 </p>
 
+---
+
 ### About
 
 I build dependable network foundations, resolve end‑user issues quickly, and ship small tools that remove toil. Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
@@ -48,9 +49,13 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 > **Belief:** Simple, observable systems fail less and recover faster.
 
+---
+
 ### Highlights at a Glance
 
 `Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Monitoring` `DNS/DHCP` `Routing/Switching` `Firewall Basics`
+
+---
 
 ### Signature Projects
 
@@ -68,6 +73,8 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
   They turn repetitive troubleshooting into predictable, documented workflows, making recovery faster and less error‑prone.
 </details>
 
+---
+
 ### Skill Matrix
 
 | Area | Scope | Confidence |
@@ -79,6 +86,8 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 | **Workflow** | Git, lightweight CI (lint/test), clear READMEs & runbooks | ★★★★☆ |
 
 <sub>Legend: ★★★★★ expert · ★★★★☆ strong · ★★★☆☆ solid</sub>
+
+---
 
 ### Tech Stack
 
@@ -101,6 +110,8 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="36" title="Jira" alt="Jira logo"/>
 </p>
 
+---
+
 ### Principles
 
 - **Standardize:** small checklists and short rollback plans  
@@ -110,11 +121,15 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 > “If it isn’t documented, it didn’t happen. If it isn’t observable, it doesn’t exist.”
 
+---
+
 ### Roadmap
 
 - Advanced network troubleshooting (packet capture & analysis) — **▰▰▰▱▱**  
 - Java: testable modules, separate CLI/service, clean packaging — **▰▰▱▱▱**  
 - Cloud: least‑privilege IAM, network isolation, cost guardrails — **▰▰▰▱▱**
+
+---
 
 ### Toolbelt
 
@@ -129,29 +144,11 @@ curl -s -o /dev/null -w "%{http_code}
 " https://google.com
 ```
 
-**HTTP Status Quick Reference**  
-Quick meanings for common response codes when troubleshooting with `curl`.
-
-| Code | Name                  | Meaning                                           | Action                                   |
-|-----:|-----------------------|---------------------------------------------------|------------------------------------------|
-| 200  | OK                    | Success.                                          | No action needed.                        |
-| 301  | Moved Permanently     | Permanent redirect to new URL.                    | Update links; use `curl -L` to follow.   |
-| 302  | Found                 | Temporary redirect.                               | Use `curl -L` to follow.                 |
-| 308  | Permanent Redirect    | Like 301 but keeps method/body.                   | Update links; good for POST/PUT.         |
-| 403  | Forbidden             | Request understood but not authorized.            | Check permissions / firewall.            |
-| 404  | Not Found             | Resource/path doesn’t exist.                      | Check route/path, rewrite rules.         |
-| 500  | Internal Server Error | Server error/exception.                           | Check logs, config, dependencies.        |
-| 502  | Bad Gateway           | Invalid response from upstream.                   | Check upstream service/proxy.            |
-| 503  | Service Unavailable   | Temporarily overloaded or down.                   | Retry, scale, check maintenance.         |
-| 504  | Gateway Timeout       | Upstream didn’t respond in time.                  | Check timeouts, optimize upstream.       |
-
-```
-
 </details>
+
+---
 
 ### Contact
 
 - Email: <a href="mailto:thongnguyenslife@gmail.com">thongnguyenslife@gmail.com</a>  
 - GitHub: <a href="https://github.com/thongnguyenslife">@thongnguyenslife</a>
-
-<!-- End of README -->
