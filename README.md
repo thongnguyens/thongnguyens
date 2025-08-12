@@ -43,6 +43,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="36" title="Jira" alt="Jira logo"/>
 </p>
 
+---
+
 <!-- NAVIGATION -->
 <p align="center">
   <a href="#about">About</a> ·
