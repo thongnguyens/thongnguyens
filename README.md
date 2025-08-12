@@ -115,9 +115,7 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 ## 📜 License Statement
 
-Released under the MIT License. Please refer to the LICENSE file (if included), or add one as needed.
-
-> “The MIT License is widely known for being concise and permissive, giving users the freedom to use, modify, and distribute the software under minimal restrictions. The only requirement is to include the original copyright and license notice in all copies or significant portions of the software.“
+**License:** Released under the MIT License. See the `LICENSE` file for details or add one if missing.
 
 ---
 
