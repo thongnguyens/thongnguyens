@@ -1,6 +1,10 @@
 <!-- =====================================================
-  PROFILE README — THONG NGUYEN HOANG 
+  PROFILE README — THONG NGUYEN HOANG (HR separators + fixed table)
   ===================================================== -->
+
+<!-- NAME + TAGLINE -->
+<h1 align="center">THONG NGUYEN HOANG</h1>
+<p align="center"><em>Network Engineer · IT Help Desk · Cloud &amp; Java</em></p>
 
 <!-- BANNER (auto light/dark) -->
 <p align="center">
@@ -33,13 +37,6 @@
   <a href="#contact">Contact</a>
 </p>
 
-<!-- SECTION SPACER -->
-<br/><br/>
-
-<!-- NAME + TAGLINE align="center"-->
-<h1>THONG NGUYEN HOANG</h1>
-<p><em>Network Engineer · IT Help Desk · Cloud &amp; Java</em></p>
-
 ---
 
 ### About
@@ -52,15 +49,13 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 > **Belief:** Simple, observable systems fail less and recover faster.
 
-<!-- SECTION SPACER -->
-<br/><br/>
+---
 
 ### Highlights at a Glance
 
 `Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Monitoring` `DNS/DHCP` `Routing/Switching` `Firewall Basics`
 
-<!-- SECTION SPACER -->
-<br/><br/>
+---
 
 ### Signature Projects
 
@@ -78,23 +73,50 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
   They turn repetitive troubleshooting into predictable, documented workflows, making recovery faster and less error‑prone.
 </details>
 
-<!-- SECTION SPACER -->
-<br/><br/>
+---
 
 ### Skill Matrix
 
-| Area | Scope | Confidence |
-|---|---|---|
-| **Networking** | TCP/IP, VLANs, routing/switching, DNS/DHCP, basic firewalling, monitoring | ★★★★☆ |
-| **IT Help Desk** | ticket lifecycle & SLA, endpoint support, asset onboarding/offboarding, KB | ★★★★☆ |
-| **Cloud (Foundations)** | IAM principles, VPC/VNet, logging/monitoring, cost basics | ★★★☆☆ |
-| **Java for Ops** | CLI utilities, HTTP/DNS checks, file/report generation | ★★★☆☆ |
-| **Workflow** | Git, lightweight CI (lint/test), clear READMEs & runbooks | ★★★★☆ |
+<table>
+  <thead>
+    <tr>
+      <th align="left" width="22%">Area</th>
+      <th align="left" width="58%">Scope</th>
+      <th align="center" width="20%">Confidence</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Networking</strong></td>
+      <td>TCP/IP, VLANs, routing/switching, DNS/DHCP, basic firewalling, monitoring</td>
+      <td align="center">★★★★☆</td>
+    </tr>
+    <tr>
+      <td><strong>IT Help Desk</strong></td>
+      <td>ticket lifecycle &amp; SLA, endpoint support, asset onboarding/offboarding, KB</td>
+      <td align="center">★★★★☆</td>
+    </tr>
+    <tr>
+      <td><strong>Cloud (Foundations)</strong></td>
+      <td>IAM principles, VPC/VNet, logging/monitoring, cost basics</td>
+      <td align="center">★★★☆☆</td>
+    </tr>
+    <tr>
+      <td><strong>Java for Ops</strong></td>
+      <td>CLI utilities, HTTP/DNS checks, file/report generation</td>
+      <td align="center">★★★☆☆</td>
+    </tr>
+    <tr>
+      <td><strong>Workflow</strong></td>
+      <td>Git, lightweight CI (lint/test), clear READMEs &amp; runbooks</td>
+      <td align="center">★★★★☆</td>
+    </tr>
+  </tbody>
+</table>
 
 <sub>Legend: ★★★★★ expert · ★★★★☆ strong · ★★★☆☆ solid</sub>
 
-<!-- SECTION SPACER -->
-<br/><br/>
+---
 
 ### Tech Stack
 
@@ -117,8 +139,7 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="36" title="Jira" alt="Jira logo"/>
 </p>
 
-<!-- SECTION SPACER -->
-<br/><br/>
+---
 
 ### Principles
 
@@ -129,8 +150,7 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 > “If it isn’t documented, it didn’t happen. If it isn’t observable, it doesn’t exist.”
 
-<!-- SECTION SPACER -->
-<br/><br/>
+---
 
 ### Roadmap
 
@@ -138,8 +158,7 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 - Java: testable modules, separate CLI/service, clean packaging — **▰▰▱▱▱**  
 - Cloud: least‑privilege IAM, network isolation, cost guardrails — **▰▰▰▱▱**
 
-<!-- SECTION SPACER -->
-<br/><br/>
+---
 
 ### Toolbelt
 
@@ -156,8 +175,7 @@ curl -s -o /dev/null -w "%{http_code}
 
 </details>
 
-<!-- SECTION SPACER -->
-<br/><br/>
+---
 
 ### Contact
 
