@@ -131,11 +131,4 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
   </a>
 </p>
 
-<!-- Minimal fallback links (for readers who block images) -->
-<p align="center">
-  <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">thongnguyenslife@gmail.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/thongnguyenslife" aria-label="GitHub @thongnguyenslife" rel="me">github.com/thongnguyenslife</a>
-</p>
-
 <!-- End of README -->
