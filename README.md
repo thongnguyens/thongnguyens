@@ -30,7 +30,7 @@
   <a href="#signature-projects">Projects</a> ·
   <a href="#tech-stack">Tech</a> ·
   <a href="#principles">Principles</a> ·
-  <a href="#roadmap">Roadmap</a> ·
+  <a href="#roadmap">Roadmap</a> 
 </p>
 
 ---
