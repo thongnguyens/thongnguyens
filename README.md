@@ -28,8 +28,6 @@
   </a> -->
 </p>
 
-# THONG NGUYEN HOANG
-
 <!-- NAVIGATION -->
 <p align="center">
   <a href="#about">About</a> ·
@@ -41,6 +39,10 @@
   <a href="#toolbelt">Toolbelt</a> ·
   <a href="#contact">Contact</a>
 </p>
+
+---
+
+# THONG NGUYEN HOANG
 
 ---
 
