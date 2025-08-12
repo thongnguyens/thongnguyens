@@ -1,16 +1,21 @@
 <!-- =====================================================
-  PROFILE README — THONG NGUYEN HOANG (HR separators + fixed table)
+  PROFILE README — THONG NGUYEN HOANG
+  - Put banner-animated-marquee.svg in ./assets/
+  - If you want the typing banner instead, change the src below to banner-animated-typing.svg
   ===================================================== -->
 
-<!-- BANNER (auto light/dark) -->
+# THONG NGUYEN HOANG
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img src="./assets/banner.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud &amp; Java" />
-  </picture>
+  <em>Network Engineer · IT Help Desk · Cloud & Java</em>
 </p>
 
-<!-- QUICK LINKS / BADGES -->
+<!-- BANNER (static for reliability on GitHub README rendering) -->
+<p align="center">
+  <img src="./assets/banner.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java" />
+</p>
+
+<!-- QUICK LINKS / BADGES (minimal, accessible, Google-like) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&label=Visitors&style=flat&color=0e75b6" alt="Profile views" />
   <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">
@@ -19,6 +24,10 @@
   <a href="https://github.com/thongnguyenslife" aria-label="GitHub Profile">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyenslife-1a73e8?logo=github&logoColor=white&style=flat"/>
   </a>
+  <!-- Optional: LinkedIn (uncomment and set your handle)
+  <a href="https://www.linkedin.com/in/your-id" aria-label="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+  </a> -->
 </p>
 
 <!-- NAVIGATION -->
@@ -35,38 +44,33 @@
 
 ---
 
-<!-- NAME + TAGLINE  align="center" <em></em> <p>Network Engineer · IT Help Desk · Cloud &amp; Java</p> -->
-<h1>THONG NGUYEN HOANG</h1>
+## About
 
----
-
-### About Me
-
-I build dependable network foundations, resolve end‑user issues quickly, and ship small tools that remove toil. Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
+I build dependable network foundations, resolve end‑user issues quickly, and write small tools that remove toil. Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
 
 - **Interests:** troubleshooting, incident hygiene, low‑friction runbooks  
 - **Learning now:** IAM basics, VPC/VNet patterns, secure‑by‑default  
-- **Work style:** measure → automate → document
+- **Work style:** measure → automate → document  
 
 > **Belief:** Simple, observable systems fail less and recover faster.
 
 ---
 
-### Highlights At A Glance
+### Highlights at a Glance
 
 `Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Monitoring` `DNS/DHCP` `Routing/Switching` `Firewall Basics`
 
 ---
 
-### Signature Projects
+## Signature Projects
 
-- **network-diagnose-cli (Java)** — one‑command checks (ping · traceroute · DNS · HTTP) with TXT/Markdown reports.  
+- **network-diagnose-cli (Java)** – one‑command checks (ping · traceroute · DNS · HTTP) with TXT/Markdown reports.  
   _Status:_ WIP · <https://github.com/thongnguyenslife>
 
-- **helpdesk-kb-playbook** — templates for intake → triage → fix/esc → post‑incident notes.  
+- **helpdesk-kb-playbook** – templates for intake → triage → fix/esc → post‑incident notes.  
   _Status:_ Draft · <https://github.com/thongnguyenslife>
 
-- **cloud-lab-notes** — vendor‑neutral cloud fundamentals & hands‑on labs.  
+- **cloud-lab-notes** – vendor‑neutral cloud fundamentals & hands‑on labs.  
   _Status:_ Updating · <https://github.com/thongnguyenslife>
 
 <details>
@@ -76,50 +80,21 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 ---
 
-### Skill Matrix
+## Skill Matrix
 
-<table width="100%" aria-label="Skill Matrix">
-  <thead>
-    <tr>
-      <th align="left" width="22%">Area</th>
-      <th align="left" width="58%">Scope</th>
-      <th align="center" width="20%">Confidence</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top"><strong>Networking</strong></td>
-      <td valign="top">TCP/IP, VLANs, routing/switching, DNS/DHCP, basic firewalling, monitoring</td>
-      <td align="center"><span title="4 of 5">★★★★☆</span></td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>IT Help Desk</strong></td>
-      <td valign="top">ticket lifecycle &amp; SLA, endpoint support, asset onboarding/offboarding, KB</td>
-      <td align="center"><span title="4 of 5">★★★★☆</span></td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>Cloud (Foundations)</strong></td>
-      <td valign="top">IAM principles, VPC/VNet, logging/monitoring, cost basics</td>
-      <td align="center"><span title="3 of 5">★★★☆☆</span></td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>Java for Ops</strong></td>
-      <td valign="top">CLI utilities, HTTP/DNS checks, file/report generation</td>
-      <td align="center"><span title="3 of 5">★★★☆☆</span></td>
-    </tr>
-    <tr>
-      <td valign="top"><strong>Workflow</strong></td>
-      <td valign="top">Git, lightweight CI (lint/test), clear READMEs &amp; runbooks</td>
-      <td align="center"><span title="4 of 5">★★★★☆</span></td>
-    </tr>
-  </tbody>
-</table>
+| Area | Scope | Confidence |
+|---|---|---|
+| **Networking** | TCP/IP, VLANs, routing/switching, DNS/DHCP, basic firewalling, monitoring | ★★★★☆ |
+| **IT Help Desk** | ticket lifecycle & SLA, endpoint support, asset onboarding/offboarding, KB | ★★★★☆ |
+| **Cloud (Foundations)** | IAM principles, VPC/VNet, logging/monitoring, cost basics | ★★★☆☆ |
+| **Java for Ops** | CLI utilities, HTTP/DNS checks, file/report generation | ★★★☆☆ |
+| **Workflow** | Git, lightweight CI (lint/test), clear READMEs & runbooks | ★★★★☆ |
 
 <sub>Legend: ★★★★★ expert · ★★★★☆ strong · ★★★☆☆ solid</sub>
 
 ---
 
-### Tech Stack
+## Tech Stack
 
 <p align="center">
   <!-- Core -->
@@ -142,7 +117,7 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 ---
 
-### Principles
+## Principles
 
 - **Standardize:** small checklists and short rollback plans  
 - **Observe:** minimal yet meaningful logs/metrics  
@@ -153,7 +128,7 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 ---
 
-### Roadmap
+## Roadmap
 
 - Advanced network troubleshooting (packet capture & analysis) — **▰▰▰▱▱**  
 - Java: testable modules, separate CLI/service, clean packaging — **▰▰▱▱▱**  
@@ -161,7 +136,7 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 ---
 
-### Toolbelt
+## Toolbelt
 
 `Java` · `Bash` · `Git` · `TCP/IP` · `DNS/DHCP` · `Routing/Switching` · `Firewall Basics` · `Monitoring`
 
@@ -174,11 +149,29 @@ curl -s -o /dev/null -w "%{http_code}
 " https://google.com
 ```
 
+**HTTP Status Quick Reference**  
+Quick meanings for common response codes when troubleshooting with `curl`.
+
+| Code | Name                  | Meaning                                           | Action                                   |
+|-----:|-----------------------|---------------------------------------------------|------------------------------------------|
+| 200  | OK                    | Success.                                          | No action needed.                        |
+| 301  | Moved Permanently     | Permanent redirect to new URL.                    | Update links; use `curl -L` to follow.   |
+| 302  | Found                 | Temporary redirect.                               | Use `curl -L` to follow.                 |
+| 308  | Permanent Redirect    | Like 301 but keeps method/body.                   | Update links; good for POST/PUT.         |
+| 403  | Forbidden             | Request understood but not authorized.            | Check permissions / firewall.            |
+| 404  | Not Found             | Resource/path doesn’t exist.                      | Check route/path, rewrite rules.         |
+| 500  | Internal Server Error | Server error/exception.                           | Check logs, config, dependencies.        |
+| 502  | Bad Gateway           | Invalid response from upstream.                   | Check upstream service/proxy.            |
+| 503  | Service Unavailable   | Temporarily overloaded or down.                   | Retry, scale, check maintenance.         |
+| 504  | Gateway Timeout       | Upstream didn’t respond in time.                  | Check timeouts, optimize upstream.       |
+
 </details>
 
 ---
 
-### Contact
+## Contact
 
 - Email: <a href="mailto:thongnguyenslife@gmail.com">thongnguyenslife@gmail.com</a>  
 - GitHub: <a href="https://github.com/thongnguyenslife">@thongnguyenslife</a>
+
+<!-- End of README -->
