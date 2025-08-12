@@ -149,4 +149,4 @@ Quick meanings for common response codes when troubleshooting with `curl`.
 | 500  | Internal Server Error | Server error/exception.                           | Check logs, config, dependencies.        |
 | 502  | Bad Gateway           | Invalid response from upstream.                   | Check upstream service/proxy.            |
 | 503  | Service Unavailable   | Temporarily overloaded or down.                   | Retry, scale, check maintenance.         |
-| 504  | Gateway Timeout       | Upstream didn’t respond in time.                   | Check timeouts, optimize upstream.       |
+| 504  | Gateway Timeout       | Upstream didn’t respond in time.                  | Check timeouts, optimize upstream.       |
