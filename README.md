@@ -36,8 +36,8 @@
 ---
 
 <!-- NAME + TAGLINE -->
-<h1 align="center">THONG NGUYEN HOANG</h1>
-<p align="center"><em>Network Engineer · IT Help Desk · Cloud &amp; Java</em></p>
+<h1 align="left">THONG NGUYEN HOANG</h1>
+<p align="left"><em>Network Engineer · IT Help Desk · Cloud &amp; Java</em></p>
 
 ---
 
