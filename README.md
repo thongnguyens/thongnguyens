@@ -6,6 +6,7 @@
 
 <!-- HERO -->
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&label=Visitors&style=flat&color=0e75b6" alt="Profile views" />
   <a href="mailto:thongnguyenslife@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-blue?logo=gmail">
   </a>
@@ -16,7 +17,6 @@
   <a href="https://www.linkedin.com/in/your-id">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?logo=linkedin">
   </a> -->
-  <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&label=Visitors&style=flat&color=0e75b6" alt="Profile views" />
 </p>
 
 <!-- QUICK NAV -->
