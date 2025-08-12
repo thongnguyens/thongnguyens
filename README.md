@@ -4,10 +4,6 @@
   - If you want the typing banner instead, change the src below to banner-animated-typing.svg
   ===================================================== -->
 
-<p align="center">
-  <em>Network Engineer · IT Help Desk · Cloud & Java</em>
-</p>
-
 <!-- BANNER (static for reliability on GitHub README rendering) -->
 <p align="center">
   <img src="./assets/banner-animated-marquee.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java" />
@@ -40,7 +36,13 @@
   <a href="#contact">Contact</a>
 </p>
 
+---
+
 # THONG NGUYEN HOANG
+
+<p align="center">
+  <em>Network Engineer · IT Help Desk · Cloud & Java</em>
+</p>
 ---
 
 ## About
