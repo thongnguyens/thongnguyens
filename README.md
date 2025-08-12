@@ -113,9 +113,9 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 ---
 
-## Contacts / Feedbacks
+## Contacts
 
-**Contact / Feedback:** Please open an Issue on Gmail, GitHub or leave a comment in a PR. Contributions through Issues—such as bug reports, suggestions, or documentation fixes — are always welcome! 🚀
+**>** Please open an Issue on Gmail, GitHub or leave a comment in a PR. Contributions through Issues—such as bug reports, suggestions, or documentation fixes — are always welcome! 🚀
 
 <!-- QUICK LINKS / BADGES (minimal, accessible, Google-like) -->
 <p align="center">
