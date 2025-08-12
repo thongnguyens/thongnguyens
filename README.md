@@ -43,8 +43,6 @@
   <em>Network Engineer · IT Help Desk · Cloud & Java</em>
 </p>
 
-### Highlights At A Glance
-
 `Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Monitoring` `DNS/DHCP` `Routing/Switching` `Firewall Basics`
 
 ---
