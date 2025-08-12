@@ -81,13 +81,13 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 ## Signature Projects
 
 - **network-diagnose-cli (Java)** – one‑command checks (ping · traceroute · DNS · HTTP).  
-  _Status: Updating · <https://github.com/thongnguyenslife>_
+Status: Updating · <https://github.com/thongnguyenslife>
 
 - **helpdesk-kb-playbook** – templates for intake → triage → fix/esc → post‑incident notes.  
-  _Status: Updating · <https://github.com/thongnguyenslife>_
+Status: Updating · <https://github.com/thongnguyenslife>
 
 - **cloud-lab-notes** – vendor‑neutral cloud fundamentals & hands‑on labs.  
-  _Status: Updating · <https://github.com/thongnguyenslife>_
+Status: Updating · <https://github.com/thongnguyenslife>
 
 ---
 
