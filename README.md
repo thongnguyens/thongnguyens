@@ -4,8 +4,6 @@
   - If you want the typing banner instead, change the src below to banner-animated-typing.svg
   ===================================================== -->
 
-# THONG NGUYEN HOANG
-
 <p align="center">
   <em>Network Engineer · IT Help Desk · Cloud & Java</em>
 </p>
@@ -29,6 +27,8 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?logo=linkedin&logoColor=white&style=flat" />
   </a> -->
 </p>
+
+# THONG NGUYEN HOANG
 
 <!-- NAVIGATION -->
 <p align="center">
