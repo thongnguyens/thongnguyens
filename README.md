@@ -110,10 +110,6 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 ## Contacts
 
-Please open an Issue on Gmail, GitHub or leave a comment in a PR. Contributions through Issues — such as bug reports, suggestions, or documentation fixes — are always welcome! 🚀
-
-<br>
-
 <!-- QUICK LINKS / BADGES (minimal, accessible, Google-like) -->
 <p align="center">
   <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">
@@ -127,6 +123,10 @@ Please open an Issue on Gmail, GitHub or leave a comment in a PR. Contributions 
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?logo=linkedin&logoColor=white&style=flat" />
   </a> -->
 </p>
+
+<br>
+
+Please open an Issue on Gmail, GitHub or leave a comment in a PR. Contributions through Issues — such as bug reports, suggestions, or documentation fixes — are always welcome! 🚀
 
 ---
 <!-- End of README -->
