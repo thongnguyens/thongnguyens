@@ -4,10 +4,6 @@
   - If you want the typing banner instead, change the src below to banner-animated-typing.svg
   ===================================================== -->
 
-<!-- NAME + TAGLINE -->
-<h1 align="center">THONG NGUYEN HOANG</h1>
-<p align="center"><em>Network Engineer · IT Help Desk · Cloud &amp; Java</em></p>
-
 <!-- BANNER -->
 <p align="center">
   <img src="./assets/banner-animated-marquee.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud &amp; Java" />
@@ -39,6 +35,10 @@
   <a href="#toolbelt">Toolbelt</a> ·
   <a href="#contact">Contact</a>
 </p>
+
+<!-- NAME + TAGLINE -->
+<h1 align="center">THONG NGUYEN HOANG</h1>
+<p align="center"><em>Network Engineer · IT Help Desk · Cloud &amp; Java</em></p>
 
 ### About
 
