@@ -33,11 +33,12 @@
   <a href="#contact">Contact</a>
 </p>
 
----
+<!-- SECTION SPACER -->
+<br/><br/>
 
-<!-- NAME + TAGLINE -->
-<h1 align="left">THONG NGUYEN HOANG</h1>
-<p align="left">Network Engineer · IT Help Desk · Cloud &amp; Java</p>
+<!-- NAME + TAGLINE align="center"-->
+<h1>THONG NGUYEN HOANG</h1>
+<p><em>Network Engineer · IT Help Desk · Cloud &amp; Java</em></p>
 
 ---
 
@@ -51,13 +52,15 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 > **Belief:** Simple, observable systems fail less and recover faster.
 
----
+<!-- SECTION SPACER -->
+<br/><br/>
 
 ### Highlights at a Glance
 
 `Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Monitoring` `DNS/DHCP` `Routing/Switching` `Firewall Basics`
 
----
+<!-- SECTION SPACER -->
+<br/><br/>
 
 ### Signature Projects
 
@@ -75,7 +78,8 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
   They turn repetitive troubleshooting into predictable, documented workflows, making recovery faster and less error‑prone.
 </details>
 
----
+<!-- SECTION SPACER -->
+<br/><br/>
 
 ### Skill Matrix
 
@@ -89,7 +93,8 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 <sub>Legend: ★★★★★ expert · ★★★★☆ strong · ★★★☆☆ solid</sub>
 
----
+<!-- SECTION SPACER -->
+<br/><br/>
 
 ### Tech Stack
 
@@ -112,7 +117,8 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="36" title="Jira" alt="Jira logo"/>
 </p>
 
----
+<!-- SECTION SPACER -->
+<br/><br/>
 
 ### Principles
 
@@ -123,7 +129,8 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 > “If it isn’t documented, it didn’t happen. If it isn’t observable, it doesn’t exist.”
 
----
+<!-- SECTION SPACER -->
+<br/><br/>
 
 ### Roadmap
 
@@ -131,7 +138,8 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 - Java: testable modules, separate CLI/service, clean packaging — **▰▰▱▱▱**  
 - Cloud: least‑privilege IAM, network isolation, cost guardrails — **▰▰▰▱▱**
 
----
+<!-- SECTION SPACER -->
+<br/><br/>
 
 ### Toolbelt
 
@@ -148,7 +156,8 @@ curl -s -o /dev/null -w "%{http_code}
 
 </details>
 
----
+<!-- SECTION SPACER -->
+<br/><br/>
 
 ### Contact
 
