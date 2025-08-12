@@ -1,87 +1,105 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1457369804613-52c61a468e7d?w=1600&q=80" alt="Banner" width="100%">
+  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?w=1600&q=80" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Thong Nguyen</h1>
-<p align="center"><em>Engineer — First Principles — Build The Future</em></p>
+<p align="center"><em>Software Engineer · AI/ML · Reliability</em></p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&style=for-the-badge&color=1a73e8" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Focus-AI%2FML%20%7C%20Backend%20%7C%20Cloud-1a73e8?style=for-the-badge" alt="Focus">
+  <img src="https://img.shields.io/badge/Principles-Clarity%20Readability%20Reliability-1a73e8?style=for-the-badge" alt="Principles">
+</p>
 
-## Mission
+## Summary
 
-Make intelligent systems that are simple, fast, reliable, and useful at scale. Ship what matters. Remove what does not.
+I build user-centered software and ML systems that are reliable, maintainable, and measurable. I value readable code, clear design docs, strong testing, and efficient developer workflows. Currently at Ton Duc Thang University, focused on shipping fast without compromising long-term quality.
 
-## First-Principles Decomposition
+## Engineering Principles
 
-- Problem: What is the core physics and the real user need, stripped of assumptions.
-- Invariants: Latency budget, correctness, cost ceiling, safety constraints.
-- Levers: Data quality, model capacity vs. latency, caching, parallelism, compression.
-- Checkpoints: p95 latency, error rate, task completion, cost per 1k requests.
+- Readability first: clear interfaces, consistent style, small modules.
+- Design docs before major changes; review decisions with ADRs.
+- Testing pyramid: unit, integration, e2e; fast and reliable CI.
+- Measure then optimize: p95/p99, error rate, capacity and cost.
+- Blameless postmortems; iterate with action items and owners.
 
-## Operating Algorithm
+## Areas of Expertise
 
-1) Delete requirements that do not make sense.  
-2) Simplify and reduce part count.  
-3) Optimize only after 1 and 2.  
-4) Accelerate cycle time and feedback loops.  
-5) Automate what remains.
+### Backend and APIs
 
----
+- FastAPI and Express services
+- Idempotency, pagination, consistency
+- Rate limiting, request validation, contracts
 
-## Impact and KPIs
+### AI and ML
 
-- p95 latency: [target: XXX ms], current: [fill]
-- Success or task completion: [target: XX%], current: [fill]
-- Error rate: [target: < X%], current: [fill]
-- Cost per 1k requests: [target: $X], current: [fill]
-- Uptime SLO: [target: 99.9 or 99.95%], current: [fill]
+- scikit-learn, TensorFlow, PyTorch
+- Feature engineering, evaluation, error analysis
+- Safe serving, guardrails, rollout strategy
 
-## Systems I Build
+### Data and Pipelines
 
-- AI and ML: practical models, robust evaluation, safe serving, guardrails.
-- Services and APIs: clear contracts, idempotency, rate limits, graceful degradation.
-- Tooling and Pipelines: reproducible data, fast CI, one-click deploys, observability by default.
+- Airflow DAGs, ETL/ELT, data quality checks
+- Versioned datasets and artifacts
+- Reproducible experiments and reports
 
----
+### MLOps and DevOps
 
-## Proof of Work
+- Packaging and model serving
+- A/B and shadow deployments, canaries
+- Observability: logs, metrics, traces
+- Docker, Linux, CI/CD with GitHub Actions
 
-- AI Chatbot for NLP  
-  Problem: clarify intents, reduce false positives.  
-  Approach: better labeling, confidence thresholds, fallback flows; light model + cache.  
-  Result: p95 down [fill %], completion up [fill %], regression rate down [fill %].
+### Frontend
 
-- Personal Portfolio  
-  Problem: slow TTFB and mediocre CWV.  
-  Approach: React + Vite + Tailwind, asset strategy, semantic HTML, a11y.  
-  Result: TTFB down [fill ms], CWV pass rate [fill %], LCP p75 [fill s].
+- React, Vite, Tailwind
+- Accessibility and basic SEO
 
-- Data Science Pipeline  
-  Problem: flaky jobs, manual runs, non-reproducible experiments.  
-  Approach: Airflow DAGs, contracts, versioned datasets and artifacts, auto reports.  
-  Result: DAG success [fill %], mean recovery time [fill], time to new run [fill].
+## Impact Highlights
 
----
+- Reduced service p95 latency by [fill: %] via caching and lean payloads
+- Improved task completion by [fill: %] through better labeling and fallbacks
+- Cut CI minutes by [fill: %] with incremental builds and artifact reuse
+- Raised pipeline success rate to [fill: %] with schema checks and alerts
 
-## Engineering Bars
+## Selected Work
 
-- Definition of Done: code, tests, docs, dashboard, alert, rollback plan.
-- SLOs: availability, latency, error budget, capacity plan.
-- Reviews: ADRs for major decisions; postmortems with action items and owners.
+**AI Chatbot for NLP**  
+Transformers with FastAPI; intent classification; confidence thresholds; safe fallbacks; telemetry-led iteration
 
-## Runbooks
+**Personal Portfolio**  
+React with Vite and Tailwind; optimized TTFB and Core Web Vitals; semantic HTML and accessible patterns
 
-- Rollback: N versions kept, one command to revert, automated smoke tests.
-- Degrade mode: circuit breakers, cached read-only path, reduced model size.
-- Incident: page on SLO burn, triage in 5 min, user notice under 30 min.
+**Data Science Pipeline**  
+Airflow ETL to feature store to training to evaluation; versioned datasets and automated reports
+
+<details>
+  <summary>Case Study: Chatbot Quality</summary>
+  Tighter labels and thresholds reduce false positives  
+  Lightweight model and caching lower p95 latency  
+  Clear fallbacks increase successful outcomes
+</details>
+
+<details>
+  <summary>Case Study: Pipeline Reliability</summary>
+  Schema drift guards and null checks  
+  Pinned dependencies and reproducible runs  
+  Scheduled summaries with trend snapshots
+</details>
+
+## SRE: SLOs and Operations
+
+- Availability SLO: [fill: 99.9 or 99.95%] uptime
+- Latency SLO: [fill: p95 <= XXX ms] for key endpoints
+- Error budget: [fill: %] per 30 days; trigger review on burn
+- Releases: canary and progressive rollout; safe rollbacks
+- Runbooks: incident triage, degrade modes, rollback steps
 
 ## Security and Privacy
 
-- Least privilege, secret rotation, SBOM and dependency audits.
-- Input validation, safe model serving, PII redaction, logging budgets.
-- Access reviews and patch cadence on schedule.
-
----
+- Least privilege, secret management, token rotation
+- Input validation; PII redaction; log budgets
+- Dependency audits, SBOM awareness, patch cadence
 
 ## Tech Stack
 
@@ -89,35 +107,37 @@ Make intelligent systems that are simple, fast, reliable, and useful at scale. S
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,fastapi,tailwind,postgres,mysql,redis,sklearn,tensorflow,pytorch,airflow,docker,linux,git,githubactions,kubernetes" alt="Tech Stack">
 </p>
 
-## Telemetry
+## Activity and Metrics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thongnguyenslife&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats">
-  <img height="160" src="https://streak-stats.demolab.com?user=thongnguyenslife&theme=transparent&hide_border=true" alt="Streak">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thongnguyenslife&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
+  <img height="160" src="https://streak-stats.demolab.com?user=thongnguyenslife&theme=default&hide_border=true" alt="Streak">
 </p>
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thongnguyenslife&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thongnguyenslife&layout=compact&theme=default&hide_border=true" alt="Top Languages">
 </p>
 
----
+## 2025 Objectives (OKR style)
 
-## 2025 Hard Mode
-
-- Ship 2 ML demos with docs and tests
-- Publish latency and throughput benchmarks
-- Open source a small utilities library
-- Write 3 concise engineering notes
+- O1: Demonstrate production-grade ML craft  
+  - KR1: Ship 2 ML demos with docs and tests  
+  - KR2: Publish latency and throughput benchmarks
+- O2: Improve developer effectiveness  
+  - KR1: Reduce CI time by [fill: %]  
+  - KR2: Release a small open-source utilities library
+- O3: Share knowledge  
+  - KR1: Write 3 concise engineering notes
 
 ## Contact
 
 <p align="center">
   <a href="mailto:thongnguyenslife@gmail.com">
-    <img src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-1a73e8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-222222?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder">
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-222222?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio placeholder">
+  <img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-202124?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn placeholder">
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-202124?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio placeholder">
 </p>
 
-<p align="center"><sub>The best part is no part.</sub></p>
+<p align="center"><sub>Built with clarity and care · Thong Nguyen</sub></p>
