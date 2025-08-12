@@ -113,6 +113,16 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 ---
 
+## 📜 License
+
+Phát hành theo giấy phép MIT. Xem file `LICENSE` (nếu có) hoặc thêm sau.
+
+---
+
+**Liên hệ / Góp ý:** vui lòng mở Issue trên GitHub hoặc để lại comment trong PR. Chúc bạn học tốt! 🚀
+
+---
+
 ## Contacts
 
 <!-- QUICK LINKS / BADGES (minimal, accessible, Google-like) -->
