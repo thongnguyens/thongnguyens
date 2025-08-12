@@ -9,9 +9,9 @@
   <img src="./assets/banner-animated-marquee.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java" />
 </p>
 
-<!-- QUICK LINKS / BADGES (minimal, accessible, Google-like) -->
+<!-- QUICK LINKS / BADGES (minimal, accessible, Google-like, color = 0e75b6) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&label=Visitors&style=flat&color=0e75b6" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&label=Visitors&style=flat&color=blue" alt="Profile views" />
   <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">
     <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-1a73e8?logo=gmail&logoColor=white&style=flat"/>
   </a>
