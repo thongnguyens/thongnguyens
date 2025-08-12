@@ -109,73 +109,19 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 Please open an Issue on Gmail, GitHub or leave a comment in a PR. Contributions through Issues — such as bug reports, suggestions, or documentation fixes — are always welcome! 🚀
 
-<!-- Floating "Contact me" button — paste into your Markdown file -->
-<div class="contact-fab attention" role="button" aria-label="Contact me">
-  <a class="contact-link" href="mailto:thongnguyenslife@gmail.com">
-    <!-- simple mail icon (SVG, no external deps) -->
-    <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true">
-      <path d="M2 6.5A2.5 2.5 0 0 1 4.5 4h15A2.5 2.5 0 0 1 22 6.5v11A2.5 2.5 0 0 1 19.5 20h-15A2.5 2.5 0 0 1 2 17.5v-11Zm2.2-.5 7.3 5.1 7.3-5.1H4.2Zm15.3 2.1-7.5 5.2a1.5 1.5 0 0 1-1.8 0L2.7 8.1v9.4A1.5 1.5 0 0 0 4.2 19h15a1.5 1.5 0 0 0 1.5-1.5V8.1Z"/>
-    </svg>
-    <span>Contact me</span>
+<br>
+
+<p align="center">
+  <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">
+    <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-1a73e8?logo=gmail&logoColor=white&style=flat"/>
   </a>
-</div>
-
-<style>
-  :root {
-    --fab-bg: #111;
-    --fab-fg: #fff;
-    --fab-shadow: 0 10px 24px rgba(0,0,0,.25);
-    --fab-shadow-strong: 0 14px 32px rgba(0,0,0,.35);
-    color-scheme: light dark;
-  }
-  @media (prefers-color-scheme: light) {
-    :root { --fab-bg: #111; --fab-fg: #fff; }
-  }
-  @media (prefers-color-scheme: dark) {
-    :root { --fab-bg: #1f2937; --fab-fg: #f8fafc; }
-  }
-
-  .contact-fab {
-    position: fixed;
-    right: 20px;
-    bottom: 20px;
-    z-index: 9999;
-  }
-
-  .contact-link {
-    display: inline-flex;
-    align-items: center;
-    gap: .55rem;
-    padding: .7rem 1rem;
-    border-radius: 9999px;
-    background: var(--fab-bg);
-    color: var(--fab-fg);
-    text-decoration: none;
-    font: 600 14px/1.1 ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial;
-    box-shadow: var(--fab-shadow);
-    transition: transform .2s ease, box-shadow .2s ease, opacity .2s ease;
-  }
-
-  .contact-link svg { fill: currentColor; flex: none; }
-  .contact-link:hover { transform: translateY(-1px); box-shadow: var(--fab-shadow-strong); }
-  .contact-link:active { transform: translateY(0); }
-
-  /* Blink/pulse a few times on page load, then stop automatically */
-  .attention .contact-link {
-    animation: fab-pulse 900ms ease-in-out 6; /* 6 pulses, ~5.4s tổng */
-  }
-
-  @keyframes fab-pulse {
-    0%   { transform: translateY(0) scale(1);    box-shadow: var(--fab-shadow); }
-    50%  { transform: translateY(-2px) scale(1.06); box-shadow: var(--fab-shadow-strong); }
-    100% { transform: translateY(0) scale(1);    box-shadow: var(--fab-shadow); }
-  }
-
-  /* Respect reduced motion preferences */
-  @media (prefers-reduced-motion: reduce) {
-    .attention .contact-link, .contact-link { animation: none !important; transition: none !important; }
-  }
-</style>
-
+  <a href="https://github.com/thongnguyenslife" aria-label="GitHub Profile">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyenslife-1a73e8?logo=github&logoColor=white&style=flat"/>
+  </a>
+  <!-- Optional: LinkedIn (uncomment and set your handle)
+  <a href="https://www.linkedin.com/in/your-id" aria-label="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+  </a> -->
+</p>
 
 <!-- End of README -->
