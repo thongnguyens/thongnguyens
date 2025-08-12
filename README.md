@@ -75,11 +75,6 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 - **cloud-lab-notes** – vendor‑neutral cloud fundamentals & hands‑on labs.  
   _Status:_ Updating · <https://github.com/thongnguyenslife>
 
-<details>
-  <summary>Why these matter</summary>
- > They turn repetitive troubleshooting into predictable, documented workflows, making recovery faster and less error‑prone.
-</details>
-
 ---
 
 ## Tech Stack
