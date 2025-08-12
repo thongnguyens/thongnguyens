@@ -51,13 +51,13 @@ I build dependable network foundations, resolve end-user issues fast, and write 
 
 ## <span id="projects">Signature Projects</span>
 
-- **network-diagnose-cli (Java)** – One-command checks: ping · traceroute · DNS · HTTP; exports txt/md reports.  
+- **network-diagnose-cli (Java)**
   _Status:_ WIP · <!-- TODO: replace with real link --> <https://github.com/thongnguyenslife>
 
-- **helpdesk-kb-playbook** – Templates for intake → triage → fix/esc → post-incident notes.  
+- **helpdesk-kb-playbook**
   _Status:_ Draft · <!-- TODO: replace with real link --> <https://github.com/thongnguyenslife>
 
-- **cloud-lab-notes** – Vendor-neutral notes: IAM, VPC/VNet, logging/monitoring, cost guardrails.  
+- **cloud-lab-notes** <!-- – Vendor-neutral notes: IAM, VPC/VNet, logging/monitoring, cost guardrails. -->
   _Status:_ Updating · <!-- TODO: replace with real link --> <https://github.com/thongnguyenslife>
 
 <details>
