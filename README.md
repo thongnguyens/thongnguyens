@@ -113,12 +113,6 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 ---
 
-## 📜 License Statement
-
-**License:** Released under the MIT License. See the `LICENSE` file for details or add one if missing.
-
----
-
 ## Contacts / Feedbacks
 
 **Contact / Feedback:** Please open an Issue on Gmail, GitHub or leave a comment in a PR. Contributions through Issues—such as bug reports, suggestions, or documentation fixes—are always welcome! 🚀
