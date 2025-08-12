@@ -25,6 +25,7 @@
 </p>
 
 <!-- NAVIGATION -->
+## Contact
 <p align="center">
   <a href="#about">About</a> ·
   <a href="#signature-projects">Projects</a> ·
@@ -108,27 +109,5 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 - Advanced network troubleshooting (packet capture & analysis) — **▰▰▰▱▱**  
 - Java: testable modules, separate CLI/service, clean packaging — **▰▰▱▱▱**  
 - Cloud: least‑privilege IAM, network isolation, cost guardrails — **▰▰▰▱▱**
-
----
-
-### Contact
-
-<!-- Row of accessible badges (safe for GitHub README) -->
-<p align="center">
-  <a href="mailto:thongnguyenslife@gmail.com?subject=Hello%20from%20GitHub"
-     aria-label="Email THONG NGUYEN HOANG"
-     title="Email: thongnguyenslife@gmail.com">
-    <img alt="Email"
-         src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-1A73E8?style=flat&logo=gmail&logoColor=white&labelColor=1A73E8" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/thongnguyenslife"
-     aria-label="GitHub @thongnguyenslife"
-     rel="me"
-     title="GitHub: @thongnguyenslife">
-    <img alt="GitHub"
-         src="https://img.shields.io/badge/GitHub-@thongnguyenslife-1A73E8?style=flat&logo=github&logoColor=white&labelColor=1A73E8" />
-  </a>
-</p>
 
 <!-- End of README -->
