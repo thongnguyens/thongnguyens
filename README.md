@@ -134,3 +134,14 @@ I build dependable network foundations, resolve end-user issues fast, and write 
 ```bash
 # Quick HTTP check (returns status code)
 curl -s -o /dev/null -w "%{http_code}\n" https://google.com
+
+### HTTP Status Quick Reference
+
+Quick meanings for common response codes when troubleshooting with `curl`.
+
+| Code | Name                 | What it means                                                     | Typical causes                                      | What to do                                            |
+|-----:|----------------------|-------------------------------------------------------------------|------------------------------------------------------|-------------------------------------------------------|
+| 200  | OK                   | Request succeeded.                                                | Everything is fine.                                  | No action needed.                                     |
+| 301  | Moved Permanently    | Resource moved to a new URL (`Location` header). Clients cache it.| Canonical domain/HTTPS redirect, trailing slash fix. | Update links; use `curl -L` to follow. Consider **308** if you need to preserve method. |
+| 404  | Not Found            | Server reachable, but the path/resource doesn’t exist.            | Typo path, route not mapped, file removed.           | Check routes, static paths, rewrite rules, base URL.  |
+| 500  | Internal Server Error| Server error/exception while handling the request.    
