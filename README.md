@@ -1,70 +1,136 @@
-<!-- ===== GOOGLE-STYLE · CLEAN · INTERNATIONAL ===== -->
+<!--
+  Professional Profile README — THONG NGUYEN HOANG
+  Focus: Network Engineer · IT Help Desk · Cloud & Java
+  Notes:
+    - Replace links/IDs marked TODO if needed
+    - Keep badges lightweight for fast load
+-->
 
+<!-- HERO -->
+<h1 align="center">THONG NGUYEN HOANG</h1>
+<p align="center"><b>Network Engineer · IT Help Desk · Cloud & Java</b></p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a73e8,100:202124&text=THONG%20NGUYEN&fontAlign=50&fontAlignY=36&fontSize=50&desc=Cloud%20%26%20VPS%20·%20Network%20·%20IT%20Help%20Desk%20·%20Java&descAlignY=58&animation=fadeIn" alt="Header"/>
+  <a href="mailto:thongnguyenslife@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-blue?logo=gmail">
+  </a>
+  <a href="https://github.com/thongnguyenslife">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyenslife-black?logo=github">
+  </a>
+  <!-- TODO: Add LinkedIn
+  <a href="https://www.linkedin.com/in/your-id">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?logo=linkedin">
+  </a> -->
 </p>
+<p align="center"><i>Reliable networks. Clear runbooks. Practical automation.</i></p>
 
-<h1 align="center">Readable · Reliable · Observable</h1>
-<p align="center"><em>I operate cloud/VPS at scale, build dependable networks, run a user-centric help desk, and ship Java back-end services.</em></p>
-
-<!-- View counter (chỉ là ảnh, không bọc link) -->
+<!-- QUICK NAV -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&style=for-the-badge&color=1a73e8" alt="Profile views"/>
-</p>
-
-<!-- Icons (stack) -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,digitalocean,terraform,ansible,docker,kubernetes,nginx,linux,ubuntu,java,spring,gradle,maven,postgres,mysql,redis,grafana,prometheus,git,githubactions,wireguard&perline=11" alt="Tech Icons"/>
-</p>
-
----
-
-## Executive Summary
-
-<div align="justify">
-I build and operate <b>cloud & VPS</b> infrastructure with strong <b>SRE</b> practices (SLOs, error budgets), secure defaults, and measurable outcomes. Coverage: <b>Network Engineering</b> (IPv4/IPv6, routing, VLANs, ACLs), <b>IT Help Desk</b> (incident/request, SLA, KB), and <b>Java</b> back-end (Spring Boot, CI/CD).
-</div>
-
----
-
-## Key Metrics (live)
-
-<p align="center">
-  <!-- GitHub Readme Stats: tổng quan -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=thongnguyenslife&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats"/>
-  <!-- Top languages -->
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thongnguyenslife&layout=compact&theme=transparent&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <!-- Streak (đóng góp liên tục) -->
-  <img height="160" src="https://streak-stats.demolab.com?user=thongnguyenslife&hide_border=true&background=00000000" alt="Contribution Streak"/>
-</p>
-
-<p align="center">
-  <!-- Activity graph (đóng góp 31 ngày gần nhất) -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=thongnguyenslife&bg_color=ffffff&color=1a73e8&line=1a73e8&point=202124&area=true&hide_border=true" alt="Activity Graph (last 31 days)"/>
+  <a href="#about">About</a> ·
+  <a href="#projects">Projects</a> ·
+  <a href="#skills">Skills</a> ·
+  <a href="#principles">Principles</a> ·
+  <a href="#roadmap">Roadmap</a> ·
+  <a href="#contact">Contact</a>
 </p>
 
 ---
 
-## Focus
+## <span id="about">About</span>
 
-- **Cloud/VPS**: Ubuntu LTS baseline; NGINX + TLS; backups; Prometheus/Grafana; cost hygiene  
-- **Networking**: VLANs, OSPF/EIGRP, IPv6, ACLs, VPN; monitoring (syslog/NetFlow/SNMP)  
-- **IT Help Desk**: incident/request, SLA & priority matrix, escalation; KB “solve once, document forever”  
-- **Java**: Spring Boot APIs; JUnit + Testcontainers; CI/CD; metrics (Micrometer), structured logs
+I build dependable network foundations, resolve end-user issues fast, and write small tools that remove toil. Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
 
-## Principles
+- Interests: troubleshooting, incident hygiene, low-friction runbooks  
+- Learning now: IAM basics, VPC/VNet patterns, secure-by-default  
+- Work style: measure → automate → document
 
-- First principles · Readability first · Measure before tuning · Automate & document
+> **Operating belief:** Simple, observable systems fail less and recover faster.
 
-## Impact (fill with real numbers)
+---
 
-- p95 API latency ↓ **[%]** · First-contact resolution ↑ **[%]** · CI time ↓ **[%]** · Change success ↑ **[%]**
+### Highlights at a glance
 
-## Contact
+`Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Monitoring` `DNS/DHCP` `Routing/Switching` `Firewall Basics`
 
-<p align="center">
-  <a href="mailto:thongnguyenslife@gmail.com"><code>thongnguyenslife@gmail.com</code></a>
-</p>
+---
+
+## <span id="projects">Signature Projects</span>
+
+> Replace links with real repositories when ready.
+
+<table>
+  <tr>
+    <td>
+      <b>network-diagnose-cli (Java)</b><br/>
+      One-command checks: ping · traceroute · DNS · HTTP; exports txt/md reports.<br/>
+      <sub>Status: <b>WIP</b> · <a href="https://github.com/thongnguyenslife">Repo</a></sub>
+    </td>
+    <td>
+      <b>helpdesk-kb-playbook</b><br/>
+      Opinionated templates for intake → triage → fix/esc → post-incident notes.<br/>
+      <sub>Status: <b>Draft</b> · <a href="https://github.com/thongnguyenslife">Repo</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>cloud-lab-notes</b><br/>
+      Vendor-neutral notes: IAM, VPC/VNet, logging/monitoring, cost guardrails.<br/>
+      <sub>Status: Updating · <a href="https://github.com/thongnguyenslife">Repo</a></sub>
+    </td>
+    <td>
+      <b>endpoint-ops-scripts</b><br/>
+      Small Bash/Java utilities for routine checks and onboarding/offboarding.<br/>
+      <sub>Status: Planned · <a href="https://github.com/thongnguyenslife">Repo</a></sub>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><b>Why these matter</b></summary>
+  These projects turn repetitive troubleshooting into predictable, documented workflows and make incident recovery faster and less error-prone.
+</details>
+
+---
+
+## <span id="skills">Skill Matrix</span>
+
+| Area | Scope | Confidence |
+|---|---|---|
+| **Networking** | TCP/IP, VLANs, routing/switching, DNS/DHCP, basic firewalling, monitoring | ★★★★☆ |
+| **IT Help Desk** | ticket lifecycle & SLA, endpoint support, asset onboarding/offboarding, KB | ★★★★☆ |
+| **Cloud (Foundations)** | IAM principles, VPC/VNet, logging/monitoring, cost basics | ★★★☆☆ |
+| **Java for Ops** | CLI utilities, HTTP/DNS checks, file/report generation | ★★★☆☆ |
+| **Workflow** | Git, lightweight CI (lint/test), clear READMEs & runbooks | ★★★★☆ |
+
+<sub>Legend: ★★★★★ expert · ★★★★☆ strong · ★★★☆☆ solid</sub>
+
+---
+
+## <span id="principles">Engineering Principles</span>
+
+- **Standardize** — small checklists and a short rollback for every change.  
+- **Observe** — minimal yet meaningful logs/metrics to see health at a glance.  
+- **Share** — after tricky tickets, write a short KB (problem → root cause → fix → verify).  
+- **Automate** — remove toil; keep scripts simple, auditable, and reversible.
+
+> “If it isn’t documented, it didn’t happen. If it isn’t observable, it doesn’t exist.”
+
+---
+
+## <span id="roadmap">Learning Roadmap</span>
+
+- Advanced network troubleshooting (captures & packet analysis) — **▰▰▰▱▱**  
+- Java: testable modules, separate CLI/service, clean packaging — **▰▰▱▱▱**  
+- Cloud: least-privilege IAM, network isolation, cost guardrails — **▰▰▰▱▱**
+
+---
+
+## Toolbelt
+
+`Java` · `Bash` · `Git` · `TCP/IP` · `DNS/DHCP` · `Routing/Switching` · `Firewall Basics` · `Monitoring`
+
+<details>
+  <summary><b>Ops Snippets</b> (quick copy-paste)</summary>
+
+```bash
+# Quick HTTP check (returns status code)
+curl -s -o /dev/null -w "%{http_code}\n" https://example.com
