@@ -55,17 +55,6 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 > **Belief:** Simple, observable systems fail less and recover faster.
 
-## Signature Projects
-
-- **network-diagnose-cli (Java)** – one‑command checks (ping · traceroute · DNS · HTTP).  
-  _Status:_ Updating · <https://github.com/thongnguyenslife>
-
-- **helpdesk-kb-playbook** – templates for intake → triage → fix/esc → post‑incident notes.  
-  _Status:_ Updating · <https://github.com/thongnguyenslife>
-
-- **cloud-lab-notes** – vendor‑neutral cloud fundamentals & hands‑on labs.  
-  _Status:_ Updating · <https://github.com/thongnguyenslife>
-
 ---
 
 ## Tech Stack
@@ -88,6 +77,19 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="36" title="VS Code" alt="VS Code logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="36" title="Jira" alt="Jira logo"/>
 </p>
+
+---
+
+## Signature Projects
+
+- **network-diagnose-cli (Java)** – one‑command checks (ping · traceroute · DNS · HTTP).  
+  _Status:_ Updating · <https://github.com/thongnguyenslife>
+
+- **helpdesk-kb-playbook** – templates for intake → triage → fix/esc → post‑incident notes.  
+  _Status:_ Updating · <https://github.com/thongnguyenslife>
+
+- **cloud-lab-notes** – vendor‑neutral cloud fundamentals & hands‑on labs.  
+  _Status:_ Updating · <https://github.com/thongnguyenslife>
 
 ---
 
