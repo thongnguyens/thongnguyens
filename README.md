@@ -113,20 +113,29 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 ### Contact
 
+<!-- Row of accessible badges (safe for GitHub README) -->
 <p align="center">
-  <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email THONG NGUYEN HOANG">
-    <img
-      alt="Email"
-      src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-1A73E8?style=flat&logo=gmail&logoColor=white&labelColor=1A73E8"
-    />
+  <a href="mailto:thongnguyenslife@gmail.com?subject=Hello%20from%20GitHub"
+     aria-label="Email THONG NGUYEN HOANG"
+     title="Email: thongnguyenslife@gmail.com">
+    <img alt="Email"
+         src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-1A73E8?style=flat&logo=gmail&logoColor=white&labelColor=1A73E8" />
   </a>
   &nbsp;
-  <a href="https://github.com/thongnguyenslife" aria-label="GitHub @thongnguyenslife" rel="me">
-    <img
-      alt="GitHub"
-      src="https://img.shields.io/badge/GitHub-@thongnguyenslife-1A73E8?style=flat&logo=github&logoColor=white&labelColor=1A73E8"
-    />
+  <a href="https://github.com/thongnguyenslife"
+     aria-label="GitHub @thongnguyenslife"
+     rel="me"
+     title="GitHub: @thongnguyenslife">
+    <img alt="GitHub"
+         src="https://img.shields.io/badge/GitHub-@thongnguyenslife-1A73E8?style=flat&logo=github&logoColor=white&labelColor=1A73E8" />
   </a>
+</p>
+
+<!-- Minimal fallback links (for readers who block images) -->
+<p align="center">
+  <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">thongnguyenslife@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/thongnguyenslife" aria-label="GitHub @thongnguyenslife" rel="me">github.com/thongnguyenslife</a>
 </p>
 
 <!-- End of README -->
