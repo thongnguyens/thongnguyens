@@ -95,10 +95,10 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 ## Principles
 
-- **Standardize:** small checklists and short rollback plans  
-- **Observe:** minimal yet meaningful logs/metrics  
-- **Share:** post‑incident KB write‑ups  
-- **Automate:** remove toil with simple, auditable scripts
+- **Standardize:** small checklists and short rollback plans.  
+- **Observe:** minimal yet meaningful logs/metrics.  
+- **Share:** post‑incident KB write‑ups.  
+- **Automate:** remove toil with simple, auditable scripts.
 
 > “If it isn’t documented, it didn’t happen. If it isn’t observable, it doesn’t exist.”
 
