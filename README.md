@@ -25,7 +25,6 @@
 </p>
 
 <!-- NAVIGATION -->
-## Contact
 <p align="center">
   <a href="#about">About</a> ·
   <a href="#signature-projects">Projects</a> ·
