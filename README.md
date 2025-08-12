@@ -31,7 +31,7 @@
 
 ---
 
-## <span id="about">About</span>
+## <span id="about">About Me</span>
 
 I build dependable network foundations, resolve end-user issues fast, and write small tools that remove toil. Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
 
