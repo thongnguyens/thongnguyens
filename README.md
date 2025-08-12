@@ -40,7 +40,7 @@
 # THONG NGUYEN HOANG
 
 <p>
-  <em>Network Engineer · IT Help Desk · Cloud & Java</em>
+  Network Engineer · IT Help Desk · Cloud & Java
 </p>
 
 `Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Monitoring` `DNS/DHCP` `Routing/Switching` `Firewall Basics`
@@ -129,15 +129,21 @@ curl -s -o /dev/null -w "%{http_code}
 
 ---
 
-## Contact
+### Contact
 
 <p align="center">
   <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email THONG NGUYEN HOANG">
-    thongnguyenslife@gmail.com
+    <img
+      alt="Email"
+      src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-1A73E8?style=flat&logo=gmail&logoColor=white&labelColor=1A73E8"
+    />
   </a>
-  &nbsp;·&nbsp;
+  &nbsp;
   <a href="https://github.com/thongnguyenslife" aria-label="GitHub @thongnguyenslife" rel="me">
-    github.com/thongnguyenslife
+    <img
+      alt="GitHub"
+      src="https://img.shields.io/badge/GitHub-@thongnguyenslife-1A73E8?style=flat&logo=github&logoColor=white&labelColor=1A73E8"
+    />
   </a>
 </p>
 
