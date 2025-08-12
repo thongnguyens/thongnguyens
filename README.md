@@ -5,8 +5,6 @@
 </p>
 
 <!-- HERO -->
-<h1 align="center">THONG NGUYEN HOANG</h1>
-<p align="center"><b>Network Engineer · IT Help Desk · Cloud & Java</b></p>
 <p align="center">
   <a href="mailto:thongnguyenslife@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-blue?logo=gmail">
@@ -20,7 +18,6 @@
   </a> -->
   <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&label=Visitors&style=flat&color=0e75b6" alt="Profile views" />
 </p>
-<p align="center"><i>Reliable networks. Clear runbooks. Practical automation.</i></p>
 
 <!-- QUICK NAV -->
 <p align="center">
