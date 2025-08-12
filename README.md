@@ -4,12 +4,16 @@
   - If you want the typing banner instead, change the src below to banner-animated-typing.svg
   ===================================================== -->
 
-<!-- BANNER -->
 <p align="center">
-  <img src="./assets/banner-animated-marquee.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud &amp; Java" />
+  <em>Network Engineer · IT Help Desk · Cloud & Java</em>
 </p>
 
-<!-- QUICK LINKS / BADGES -->
+<!-- BANNER (static for reliability on GitHub README rendering) -->
+<p align="center">
+  <img src="./assets/banner-animated-marquee.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java" />
+</p>
+
+<!-- QUICK LINKS / BADGES (minimal, accessible, Google-like) -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&label=Visitors&style=flat&color=0e75b6" alt="Profile views" />
   <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">
@@ -36,33 +40,37 @@
   <a href="#contact">Contact</a>
 </p>
 
-<!-- NAME + TAGLINE -->
-<h1 align="center">THONG NGUYEN HOANG</h1>
-<p align="center"><em>Network Engineer · IT Help Desk · Cloud &amp; Java</em></p>
+# THONG NGUYEN HOANG
 
-### About
+---
 
-I build dependable network foundations, resolve end‑user issues quickly, and ship small tools that remove toil. Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
+## About
+
+I build dependable network foundations, resolve end‑user issues quickly, and write small tools that remove toil. Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
 
 - **Interests:** troubleshooting, incident hygiene, low‑friction runbooks  
 - **Learning now:** IAM basics, VPC/VNet patterns, secure‑by‑default  
-- **Work style:** measure → automate → document
+- **Work style:** measure → automate → document  
 
 > **Belief:** Simple, observable systems fail less and recover faster.
+
+---
 
 ### Highlights at a Glance
 
 `Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Monitoring` `DNS/DHCP` `Routing/Switching` `Firewall Basics`
 
-### Signature Projects
+---
 
-- **network-diagnose-cli (Java)** — one‑command checks (ping · traceroute · DNS · HTTP) with TXT/Markdown reports.  
+## Signature Projects
+
+- **network-diagnose-cli (Java)** – one‑command checks (ping · traceroute · DNS · HTTP) with TXT/Markdown reports.  
   _Status:_ WIP · <https://github.com/thongnguyenslife>
 
-- **helpdesk-kb-playbook** — templates for intake → triage → fix/esc → post‑incident notes.  
+- **helpdesk-kb-playbook** – templates for intake → triage → fix/esc → post‑incident notes.  
   _Status:_ Draft · <https://github.com/thongnguyenslife>
 
-- **cloud-lab-notes** — vendor‑neutral cloud fundamentals & hands‑on labs.  
+- **cloud-lab-notes** – vendor‑neutral cloud fundamentals & hands‑on labs.  
   _Status:_ Updating · <https://github.com/thongnguyenslife>
 
 <details>
@@ -70,7 +78,9 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
   They turn repetitive troubleshooting into predictable, documented workflows, making recovery faster and less error‑prone.
 </details>
 
-### Skill Matrix
+---
+
+## Skill Matrix
 
 | Area | Scope | Confidence |
 |---|---|---|
@@ -82,7 +92,9 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 <sub>Legend: ★★★★★ expert · ★★★★☆ strong · ★★★☆☆ solid</sub>
 
-### Tech Stack
+---
+
+## Tech Stack
 
 <p align="center">
   <!-- Core -->
@@ -103,7 +115,9 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="36" title="Jira" alt="Jira logo"/>
 </p>
 
-### Principles
+---
+
+## Principles
 
 - **Standardize:** small checklists and short rollback plans  
 - **Observe:** minimal yet meaningful logs/metrics  
@@ -112,13 +126,17 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 > “If it isn’t documented, it didn’t happen. If it isn’t observable, it doesn’t exist.”
 
-### Roadmap
+---
+
+## Roadmap
 
 - Advanced network troubleshooting (packet capture & analysis) — **▰▰▰▱▱**  
 - Java: testable modules, separate CLI/service, clean packaging — **▰▰▱▱▱**  
 - Cloud: least‑privilege IAM, network isolation, cost guardrails — **▰▰▰▱▱**
 
-### Toolbelt
+---
+
+## Toolbelt
 
 `Java` · `Bash` · `Git` · `TCP/IP` · `DNS/DHCP` · `Routing/Switching` · `Firewall Basics` · `Monitoring`
 
@@ -147,11 +165,11 @@ Quick meanings for common response codes when troubleshooting with `curl`.
 | 503  | Service Unavailable   | Temporarily overloaded or down.                   | Retry, scale, check maintenance.         |
 | 504  | Gateway Timeout       | Upstream didn’t respond in time.                  | Check timeouts, optimize upstream.       |
 
-```
-
 </details>
 
-### Contact
+---
+
+## Contact
 
 - Email: <a href="mailto:thongnguyenslife@gmail.com">thongnguyenslife@gmail.com</a>  
 - GitHub: <a href="https://github.com/thongnguyenslife">@thongnguyenslife</a>
