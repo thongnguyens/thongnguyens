@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2048" height="512" viewBox="0 0 2048 512" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java</title>
+  <desc id="desc">Animated banner with gradient background and marquee tagline</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#1f2937"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#67e8f9"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+    <clipPath id="pad">
+      <rect x="64" y="64" width="1920" height="384" rx="24" ry="24"/>
+    </clipPath>
+  </defs>
+
+  <!-- Background -->
+  <rect width="2048" height="512" fill="url(#bg)"/>
+
+  <!-- Subtle grid -->
+  <g opacity="0.10">
+    <path d="M0 128 H2048 M0 256 H2048 M0 384 H2048" stroke="#93a3b8" stroke-width="0.6"/>
+    <path d="M256 0 V512 M512 0 V512 M768 0 V512 M1024 0 V512 M1280 0 V512 M1536 0 V512 M1792 0 V512" stroke="#93a3b8" stroke-width="0.6"/>
+  </g>
+
+  <!-- Title -->
+  <g filter="url(#soft)">
+    <text x="50%" y="210" text-anchor="middle"
+          font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+          font-size="86" font-weight="800" fill="url(#shine)" letter-spacing="2">
+      THONG NGUYEN HOANG
+    </text>
+  </g>
+
+  <!-- Animated marquee tagline -->
+  <g clip-path="url(#pad)">
+    <g transform="translate(0,0)">
+      <text id="tag" x="2048" y="310"
+            font-family="Inter, Segoe UI, Roboto, Helvetica, Arial, sans-serif"
+            font-size="36" font-weight="600" fill="#e5e7eb" opacity="0.95">
+        • Network Engineer • IT Help Desk • Cloud & Java • Reliable networks · Clear runbooks · Practical automation •
+      </text>
+      <animate xlink:href="#tag" attributeName="x" from="2048" to="-2400" dur="16s" repeatCount="indefinite"/>
+    </g>
+  </g>
+
+  <!-- Bottom accent -->
+  <rect x="64" y="362" width="1920" height="4" fill="url(#shine)" opacity="0.45"/>
+</svg>
