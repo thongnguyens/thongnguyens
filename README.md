@@ -31,7 +31,6 @@
   <a href="#tech-stack">Tech</a> ·
   <a href="#principles">Principles</a> ·
   <a href="#roadmap">Roadmap</a> ·
-  <a href="#contact">Contact</a>
 </p>
 
 ---
