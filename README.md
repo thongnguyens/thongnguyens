@@ -42,8 +42,6 @@
 
 # THONG NGUYEN HOANG
 
----
-
 ## About
 
 I build dependable network foundations, resolve end‑user issues quickly, and write small tools that remove toil. Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
