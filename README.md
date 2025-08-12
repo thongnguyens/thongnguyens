@@ -1,85 +1,81 @@
 <!--
-README "BIG-TECH" - Tieng Viet khong dau + comment giai thich.
 NGUYEN TAC:
 - Chi EMAIL co the click. Khong boc <a> cho anh/badge khac.
-- Noi dung uu tien ro rang, impact, SLO, observability, security.
-- Anh/SVG dong chi hien thi, KHONG la link.
+- Ton chi enterprise: ro rang, do luong duoc, nhe hinh thuc, manh ve tac dong.
+- Anh/SVG dong chi hien thi (no-link).
 -->
 
-<!-- ======================= HERO / BANNER =======================
-Anh mo dau tong trung tinh, chuyen nghiep. Co the doi URL anh cua ban.
--->
+<!-- ======================= HERO / BANNER ======================= -->
 <p align="center">
   <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?w=1600&q=80" alt="Hero Banner" width="100%"/>
 </p>
 
-<!-- Tieu de + tagline ngan gon theo phong cach enterprise -->
 <h1 align="center">Thong Nguyen</h1>
 <p align="center"><em>Software Engineer · AI/ML · Systems</em></p>
 
 <!-- ======================= STATUS / BADGES =======================
-Chi la anh (khong boc link). Muc dich: mo ta pham vi va nguyen tac lam viec.
+Badge chi de trinh bay, khong link. Dung giong nhau ve phong cach de dong bo.
 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&style=for-the-badge&color=2F80ED" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Scope-Backend%20%7C%20AI%2FML%20%7C%20Cloud-111111?style=for-the-badge" alt="Scope"/>
-  <img src="https://img.shields.io/badge/Principles-Clarity%20-%20Reliability%20-%20Impact-111111?style=for-the-badge" alt="Principles"/>
+  <img src="https://img.shields.io/badge/Principles-Clarity%20•%20Reliability%20•%20Impact-111111?style=for-the-badge" alt="Principles"/>
 </p>
 
 ---
 
-<!-- Tom luoc dinh vi nghe nghiep: 4-5 cau, trong tam ro rang -->
-## Ho so Tong quan
+<!-- Tom tat cap cao: 4-5 cau, nhan manh gia tri chuyen mon va tac dong -->
+## Executive Summary
 
-Ky su tap trung xay dung he thong phan mem/ML **reliable, scalable, observable**. Uu tien hop dong ro rang, ket qua do duoc, va trai nghiem dev tot. Hien dang hoc tai **Ton Duc Thang University**; xay dung san pham can bang giua **toc do** va **chat luong**, nhan manh tinh de duy tri va tac dong lau dai.
+I design and deliver **reliable, scalable, and observable** software/ML systems. I value clear interfaces, measurable outcomes, and great developer experience. Currently at **Ton Duc Thang University**, I focus on building products that balance **speed** and **quality**, with long-term maintainability in mind.
 
 ---
 
-<!-- Ban do nang luc kieu "big-tech": doc luot, hieu sau -->
-## Ban do Nang luc
+<!-- Ma tran nang luc: doc luot la hieu. Viet ngan, dung tu vung ky thuat chuan -->
+## Competency Matrix
 
 <table>
 <tr>
   <td><b>Backend & APIs</b></td>
-  <td>FastAPI/Express, domain modeling, idempotency, consistency, rate limiting</td>
+  <td>FastAPI/Express · Domain modeling · Idempotency · Consistency · Rate limiting</td>
 </tr>
 <tr>
   <td><b>AI / ML</b></td>
-  <td>scikit-learn, TensorFlow, PyTorch, feature engineering, danh gia & error analysis</td>
+  <td>scikit-learn · TensorFlow · PyTorch · Feature engineering · Evaluation & error analysis</td>
 </tr>
 <tr>
   <td><b>Data & Pipelines</b></td>
-  <td>Airflow DAGs, ETL/ELT, data validation, versioned datasets/artifacts, reproducibility</td>
+  <td>Airflow DAGs · ETL/ELT · Data validation · Versioned datasets & artifacts · Reproducibility</td>
 </tr>
 <tr>
   <td><b>MLOps</b></td>
-  <td>Packaging/serving, A/B & shadow deploys, monitoring (latency/quality/drift), safe rollbacks</td>
+  <td>Packaging & serving · A/B & shadow deploys · Monitoring (latency/quality/drift) · Safe rollbacks</td>
 </tr>
 <tr>
   <td><b>DevOps</b></td>
-  <td>Docker, Linux, CI/CD (GitHub Actions), observability (logs/metrics/traces)</td>
+  <td>Docker · Linux · CI/CD (GitHub Actions) · Observability (logs/metrics/traces)</td>
 </tr>
 <tr>
   <td><b>Frontend</b></td>
-  <td>React, Vite, Tailwind, accessibility & SEO co ban</td>
+  <td>React · Vite · Tailwind · Accessibility & SEO fundamentals</td>
 </tr>
 </table>
 
 ---
 
-<!-- Nguyen tac van hanh: ngan, sac, co the ap dung ngay -->
-## Nguyen tac Van hanh
+<!-- Nguyen tac lam viec: ngan gon, hanh dong, de kiem tra duoc -->
+## Operating Tenets
 
-- **Design for clarity** -> module nho, de ket hop; interface ro rang  
-- **Prove with tests** -> unit + contract tests cho duong dan quan trong  
-- **Measure truoc khi toi uu** -> profile hotspots; theo doi p95/p99; error budgets  
-- **Tu dong hoa tac vu lap lai** -> build reproducible; one-click deploy; jobs dinh ky  
-- **Ghi nhat ky quyet dinh** -> ADR ngan; lam ro trade-off
+- **Design for clarity** → small, composable modules; explicit interfaces.  
+- **Prove with tests** → unit + contract tests for critical paths.  
+- **Measure before tuning** → profile hotspots; track p95/p99; error budgets.  
+- **Automate the routine** → reproducible builds; one-click deploys; scheduled jobs.  
+- **Document decisions** → concise ADRs; make trade-offs explicit.
 
 ---
 
-<!-- Tech Radar dang icon: nhan dien nhanh. Chi anh, khong link -->
-## Tech Radar (icon)
+<!-- Tech icons: giup nha tuyen dung que nhanh stack. Chi la anh, khong link -->
+## Tech Radar (icons only)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,fastapi,tailwind,postgres,mysql,redis,sklearn,tensorflow,pytorch,airflow,docker,linux,git,githubactions,kubernetes" alt="Tech Radar"/>
@@ -87,61 +83,62 @@ Ky su tap trung xay dung he thong phan mem/ML **reliable, scalable, observable**
 
 ---
 
-<!-- Diem nhan tac dong. Dien so thuc te khi co de tang do tin cay -->
-## Impact Noi bat
+<!-- Tac dong: de placeholder [fill: ...] de ban thay so that khi co -->
+## Impact Highlights
 
-- Giam p95 latency dich vu **[dien: %]** nho caching va rut gon payload  
-- Tang task completion NLP **[dien: %]** nho labeling & fallback ro rang  
-- Giam thoi gian CI **[dien: %]** nho incremental builds va tai su dung artifacts  
-- Tang ti le thanh cong DAG len **[dien: %]** nho schema checks va canh bao
+- Reduced service p95 latency by **[fill: %]** via caching and lean payloads.  
+- Improved NLP task completion by **[fill: %]** with better labeling and fallbacks.  
+- Cut CI minutes by **[fill: %]** using incremental builds and artifact reuse.  
+- Raised DAG success rate to **[fill: %]** through schema checks and alerts.
 
-> Thay gia tri trong [dien: ...] bang so lieu that khi co.
-
----
-
-<!-- Du an tieu bieu: mo ta ro vai tro & ky thuat, khong link ngoai -->
-## Du an Tieu bieu
-
-- **AI Chatbot (NLP)** — Transformers + FastAPI; intent classification; confidence thresholds; fallback an toan; iteration dua tren telemetry  
-- **Personal Portfolio** — React + Vite + Tailwind; toi uu TTFB/Core Web Vitals; HTML sematic; pattern truy cap tot  
-- **Data Science Pipeline** — Airflow ETL -> feature store -> training -> evaluation; du lieu & artifacts co version; bao cao tu dong
-
-<details>
-  <summary><b>Case Study - Chatbot Quality</b></summary>
-  - Nhieu hon do chinh xac: label & threshold chac hon  
-  - Latency p95 thap hon: mo hinh nhe + cache  
-  - Ty le hoan thanh cao hon: fallback ro rang
-</details>
-
-<details>
-  <summary><b>Case Study - Pipeline Reliability</b></summary>
-  - Chan schema drift & nulls  
-  - Chay reproducible voi pinned dependencies  
-  - Bao cao dinh ky kem bieu do xu huong
-</details>
+> Replace bracketed values with real metrics when available.
 
 ---
 
-<!-- Phan "big-tech": SLO & Observability -->
+<!-- Du an tieu bieu: mo ta ro bai toan + giai phap + cong nghe cot loi -->
+## Selected Work
+
+- **AI Chatbot (NLP)** — Transformers + FastAPI; intent classification; confidence thresholds; safe fallbacks; telemetry-driven iteration.  
+- **Personal Portfolio** — React + Vite + Tailwind; optimized TTFB/Core Web Vitals; semantic HTML; accessible patterns.  
+- **Data Science Pipeline** — Airflow ETL → feature store → training → evaluation; versioned datasets; automated reports.
+
+<!-- Mo rong chi tiet bang details de khong lam roi mat -->
+<details>
+  <summary><b>Case Study · Chatbot Quality</b></summary>
+  • Tighter labels & thresholds → fewer false positives  
+  • Lightweight model + caching → lower p95 latency  
+  • Clear fallback paths → higher successful outcomes
+</details>
+
+<details>
+  <summary><b>Case Study · Pipeline Reliability</b></summary>
+  • Schema-drift guards & null checks  
+  • Pinned dependencies & reproducible runs  
+  • Scheduled summaries with trend snapshots
+</details>
+
+---
+
+<!-- SLO & observability ro rang -->
 ## SLO & Observability
 
-- **Availability SLO:** [dien: 99.9% / 99.95%] uptime  
-- **Latency SLO:** [dien: p95 <= XXX ms] cho cac endpoint chinh  
-- **Error budget:** [dien: %] moi 30 ngay  
-- **Dashboards:** latency, throughput, errors; review hang tuan kem action items
+- **Availability SLO:** [fill: 99.9% / 99.95%] service uptime  
+- **Latency SLO:** [fill: p95 ≤ XXX ms] for key endpoints  
+- **Error budget:** [fill: %] per 30-day window  
+- **Dashboards:** latency, throughput, errors; weekly review & action items
 
 ---
 
-<!-- Phan "big-tech": Security & Privacy -->
+<!-- Security & privacy nguyen tac co ban -->
 ## Security & Privacy
 
-- Nguyen tac Least Privilege; quan ly secrets; rotation token  
-- Valid input; model serving an toan; che PII trong logs  
-- Audit dependencies; nhan thuc SBOM; nhip update ban va patch
+- Least-privilege access; secret management; token rotation  
+- Input validation; safe model serving; PII redaction in logs  
+- Dependency auditing; SBOM awareness; regular patch cadence
 
 ---
 
-<!-- So lieu hoat dong GitHub: anh SVG dong. KHONG boc link -->
+<!-- Hoat dong GitHub: SVG dong. De theme toi gian va dong bo -->
 ## Activity & Metrics
 
 <p align="center">
@@ -157,18 +154,18 @@ Ky su tap trung xay dung he thong phan mem/ML **reliable, scalable, observable**
 
 ---
 
-<!-- Lo trinh: the hien ky luat & dinh huong nghe nghiep -->
-## Muc tieu 2025
+<!-- Roadmap ngan gon: the hien ky luat, huong den ket qua do duoc -->
+## 2025 Focus
 
-- [ ] Cong khai 2 demo ML kem docs & tests  
-- [ ] Xuat ban benchmark latency/throughput  
-- [ ] Mo nguon mot thu vien utils nho  
-- [ ] Viet 3 ghi chu ky thuat ngan gon
+- [ ] Ship 2 ML demos with docs & tests  
+- [ ] Publish latency/throughput benchmarks  
+- [ ] Open-source a small utilities library  
+- [ ] Write 3 concise engineering notes
 
 ---
 
-<!-- Chi EMAIL co the click; phan khac la placeholder anh, khong link -->
-## Lien he
+<!-- Contact: CHI email co the click. Placeholder khac la anh khong link -->
+## Contact
 
 <p align="center">
   <a href="mailto:thongnguyenslife@gmail.com">
@@ -182,5 +179,5 @@ Ky su tap trung xay dung he thong phan mem/ML **reliable, scalable, observable**
 
 ---
 
-<!-- Chan trang toi gian -->
-<p align="center"><sub>Engineered with care - Thong Nguyen</sub></p>
+<!-- Chan trang toi gian, tinh te -->
+<p align="center"><sub>Engineered with care · Thong Nguyen</sub></p>
