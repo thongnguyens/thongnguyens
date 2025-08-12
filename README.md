@@ -1,7 +1,3 @@
-Ok—here’s a **top-tier, premium** English README: elegant layout, polished copy, advanced sections, and strictly **no external links** (only the email button is clickable).
-Paste this into your `README.md`.
-
-```markdown
 <!-- ========================= PREMIUM / HERO ========================= -->
 <p align="center">
   <!-- Replace with your own striking banner (display only, no link) -->
@@ -28,11 +24,13 @@ Paste this into your `README.md`.
 ---
 
 ## Executive Summary
+
 I build reliable, high-performance software and ML systems with clear architecture and measurable impact. Currently leveling up advanced ML, MLOps, and cloud-native stacks while keeping a strong focus on developer experience and user outcomes.
 
 ---
 
 ## Quick Facts
+
 <table>
 <tr>
   <td>
@@ -55,6 +53,7 @@ I build reliable, high-performance software and ML systems with clear architectu
 ---
 
 ## Core Skills
+
 <p align="center">
   <!-- Icons only, no links -->
   <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,react,nodejs,express,tailwind,html,css" alt="Languages & FE"/>
@@ -71,6 +70,7 @@ I build reliable, high-performance software and ML systems with clear architectu
 ---
 
 ## Engineering Principles
+
 - Design for clarity first; complexity only when justified.  
 - Prefer small, composable modules with strong contracts and tests.  
 - Make performance visible: measure, profile, and iterate.  
@@ -79,6 +79,7 @@ I build reliable, high-performance software and ML systems with clear architectu
 ---
 
 ## Activity & Metrics
+
 <p align="center">
   <!-- Images only, no links -->
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=thongnguyenslife&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
@@ -94,7 +95,9 @@ I build reliable, high-performance software and ML systems with clear architectu
 ---
 
 ## Selected Work
+>
 > Replace with your real repositories when ready (no external links here).
+
 - <strong>AI Chatbot (NLP):</strong> Transformers + FastAPI; robust intent recognition and response quality.  
 - <strong>Personal Portfolio:</strong> React + Vite + Tailwind; optimized TTFB, Core Web Vitals, and accessibility.  
 - <strong>Data Science Pipeline:</strong> Airflow ETL → feature store → training → evaluation; reproducible experiments.
@@ -102,6 +105,7 @@ I build reliable, high-performance software and ML systems with clear architectu
 ---
 
 ## Case Studies (Snapshots)
+
 <details>
   <summary><b>Chatbot Quality</b> — from baseline to useful assistant</summary>
   <ul>
@@ -132,6 +136,7 @@ I build reliable, high-performance software and ML systems with clear architectu
 ---
 
 ## Roadmap 2025
+
 - [ ] Publish 2 demo ML projects with docs & tests  
 - [ ] Add benchmarks and profiling notes  
 - [ ] Ship a small open-source library (utils / tooling)  
@@ -140,6 +145,7 @@ I build reliable, high-performance software and ML systems with clear architectu
 ---
 
 ## Contact
+
 <p align="center">
   <!-- Email is the ONLY clickable item -->
   <a href="mailto:thongnguyenslife@gmail.com">
@@ -156,6 +162,3 @@ I build reliable, high-performance software and ML systems with clear architectu
 ---
 
 <p align="center"><sub>Engineered with care by Thong Nguyen</sub></p>
-```
-
-Want me to **swap in your real project names** and a **custom banner** (colors, style, tagline) so it feels uniquely yours? I can also tune the stats theme to match your brand.
