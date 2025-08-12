@@ -84,11 +84,11 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 | Area | Scope | Confidence |
 |---|---|---|
-| **Networking** | TCP/IP, VLANs, routing/switching, DNS/DHCP, basic firewalling, monitoring | ★★★★☆ |
-| **IT Help Desk** | ticket lifecycle & SLA, endpoint support, asset onboarding/offboarding, KB | ★★★★☆ |
-| **Cloud (Foundations)** | IAM principles, VPC/VNet, logging/monitoring, cost basics | ★★★☆☆ |
-| **Java for Ops** | CLI utilities, HTTP/DNS checks, file/report generation | ★★★☆☆ |
-| **Workflow** | Git, lightweight CI (lint/test), clear READMEs & runbooks | ★★★★☆ |
+| **Networking** | TCP/IP, VLANs, routing/switching, DNS/DHCP, basic firewalling, monitoring.     | ★★★★☆ |
+| **IT Help Desk** | Ticket lifecycle & SLA, endpoint support, asset onboarding/offboarding, KB.     | ★★★★☆ |
+| **Cloud (Foundations)** | IAM principles, VPC/VNet, logging/monitoring, cost basics.     | ★★★☆☆ |
+| **Java for Ops** | CLI utilities, HTTP/DNS checks, file/report generation.     | ★★★☆☆ |
+| **Workflow** | Git, lightweight CI (lint/test), clear READMEs & runbooks.     | ★★★★☆ |
 
 <sub>Legend: ★★★★★ expert · ★★★★☆ strong · ★★★☆☆ solid</sub>
 
