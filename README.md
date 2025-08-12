@@ -4,8 +4,9 @@
 =========================================================== -->
 
 <!-- BANNER -->
+<!-- Static -->
 <p align="center">
-  <img src="./assets/banner-elite-animated.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java">
+  <img src="./assets/banner-elite-static.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java">
 </p>
 
 <!-- BADGES -->
