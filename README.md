@@ -3,6 +3,7 @@
   - Put banner-animated-marquee.svg in ./assets/
   - If you want the typing banner instead, change the src below to banner-animated-typing.svg
   ===================================================== -->
+# THONG NGUYEN HOANG
 
 <p align="center">
   <em>Network Engineer · IT Help Desk · Cloud & Java</em>
@@ -39,8 +40,6 @@
   <a href="#toolbelt">Toolbelt</a> ·
   <a href="#contact">Contact</a>
 </p>
-
-# THONG NGUYEN HOANG
 
 ---
 
