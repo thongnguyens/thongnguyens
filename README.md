@@ -5,7 +5,7 @@
 
 <!-- BANNER -->
 <p align="center">
-  <img src="./assets/banner-thongnguyen.svg" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java" width="100%">
+  <img src="./assets/banner-elite-animated.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java">
 </p>
 
 <!-- BADGES -->
