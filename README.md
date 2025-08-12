@@ -30,7 +30,8 @@
   <a href="#signature-projects">Projects</a> ·
   <a href="#tech-stack">Tech</a> ·
   <a href="#principles">Principles</a> ·
-  <a href="#roadmap">Roadmap</a> 
+  <a href="#roadmap">Roadmap</a> .
+  <a href="#contacts">Roadmap</a>
 </p>
 
 ---
@@ -111,4 +112,21 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 - Cloud: least‑privilege IAM, network isolation, cost guardrails — **▰▰▰▱▱**
 
 ---
+
+## Contacts
+
+<!-- QUICK LINKS / BADGES (minimal, accessible, Google-like) -->
+<p align="center">
+  <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">
+    <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-1a73e8?logo=gmail&logoColor=white&style=flat"/>
+  </a>
+  <a href="https://github.com/thongnguyenslife" aria-label="GitHub Profile">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyenslife-1a73e8?logo=github&logoColor=white&style=flat"/>
+  </a>
+  <!-- Optional: LinkedIn (uncomment and set your handle)
+  <a href="https://www.linkedin.com/in/your-id" aria-label="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?logo=linkedin&logoColor=white&style=flat" />
+  </a> -->
+</p>
+
 <!-- End of README -->
