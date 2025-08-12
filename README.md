@@ -35,9 +35,8 @@
 
 ---
 
-<!-- NAME + TAGLINE  align="center <em></em>"-->
+<!-- NAME + TAGLINE  align="center" <em></em> <p>Network Engineer · IT Help Desk · Cloud &amp; Java</p> -->
 <h1>THONG NGUYEN HOANG</h1>
-<p>Network Engineer · IT Help Desk · Cloud &amp; Java</p>
 
 ---
 
@@ -77,21 +76,9 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 
 ---
 
-### Skills (Diagram)
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-bars-dark.svg">
-    <img src="./assets/skills-bars-light.svg" width="100%"
-         alt="Skills — Networking ★★★★☆, IT Help Desk ★★★★☆, Cloud (Foundations) ★★★☆☆, Java for Ops ★★★☆☆, Workflow ★★★★☆">
-  </picture>
-</p>
-
-<!--
-
 ### Skill Matrix
 
-<table>
+<table width="100%" aria-label="Skill Matrix">
   <thead>
     <tr>
       <th align="left" width="22%">Area</th>
@@ -129,8 +116,6 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
 </table>
 
 <sub>Legend: ★★★★★ expert · ★★★★☆ strong · ★★★☆☆ solid</sub>
-
--->
 
 ---
 
