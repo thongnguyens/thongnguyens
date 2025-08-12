@@ -4,12 +4,6 @@
   - If you want the typing banner instead, change the src below to banner-animated-typing.svg
   ===================================================== -->
 
-# THONG NGUYEN HOANG
-
-<p align="center">
-  <em>Network Engineer · IT Help Desk · Cloud & Java</em>
-</p>
-
 <!-- BANNER (static for reliability on GitHub README rendering) -->
 <p align="center">
   <img src="./assets/banner.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java" />
@@ -40,6 +34,14 @@
   <a href="#roadmap">Roadmap</a> ·
   <a href="#toolbelt">Toolbelt</a> ·
   <a href="#contact">Contact</a>
+</p>
+
+---
+
+# THONG NGUYEN HOANG
+
+<p>
+  <em>Network Engineer · IT Help Desk · Cloud & Java</em>
 </p>
 
 ---
@@ -77,20 +79,6 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
   <summary><b>Why these matter</b></summary>
   They turn repetitive troubleshooting into predictable, documented workflows, making recovery faster and less error‑prone.
 </details>
-
----
-
-## Skill Matrix
-
-| Area | Scope | Confidence |
-|---|---|---|
-| **Networking** | TCP/IP, VLANs, routing/switching, DNS/DHCP, basic firewalling, monitoring.     | ★★★★☆ |
-| **IT Help Desk** | Ticket lifecycle & SLA, endpoint support, asset onboarding/offboarding, KB.     | ★★★★☆ |
-| **Cloud (Foundations)** | IAM principles, VPC/VNet, logging/monitoring, cost basics.     | ★★★☆☆ |
-| **Java for Ops** | CLI utilities, HTTP/DNS checks, file/report generation.     | ★★★☆☆ |
-| **Workflow** | Git, lightweight CI (lint/test), clear READMEs & runbooks.     | ★★★★☆ |
-
-<sub>Legend: ★★★★★ expert · ★★★★☆ strong · ★★★☆☆ solid</sub>
 
 ---
 
@@ -148,22 +136,6 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 curl -s -o /dev/null -w "%{http_code}
 " https://google.com
 ```
-
-**HTTP Status Quick Reference**  
-Quick meanings for common response codes when troubleshooting with `curl`.
-
-| Code | Name                  | Meaning                                           | Action                                   |
-|-----:|-----------------------|---------------------------------------------------|------------------------------------------|
-| 200  | OK                    | Success.                                          | No action needed.                        |
-| 301  | Moved Permanently     | Permanent redirect to new URL.                    | Update links; use `curl -L` to follow.   |
-| 302  | Found                 | Temporary redirect.                               | Use `curl -L` to follow.                 |
-| 308  | Permanent Redirect    | Like 301 but keeps method/body.                   | Update links; good for POST/PUT.         |
-| 403  | Forbidden             | Request understood but not authorized.            | Check permissions / firewall.            |
-| 404  | Not Found             | Resource/path doesn’t exist.                      | Check route/path, rewrite rules.         |
-| 500  | Internal Server Error | Server error/exception.                           | Check logs, config, dependencies.        |
-| 502  | Bad Gateway           | Invalid response from upstream.                   | Check upstream service/proxy.            |
-| 503  | Service Unavailable   | Temporarily overloaded or down.                   | Retry, scale, check maintenance.         |
-| 504  | Gateway Timeout       | Upstream didn’t respond in time.                  | Check timeouts, optimize upstream.       |
 
 </details>
 
