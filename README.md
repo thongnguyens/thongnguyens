@@ -2,10 +2,6 @@
   PROFILE README — THONG NGUYEN HOANG (HR separators + fixed table)
   ===================================================== -->
 
-<!-- NAME + TAGLINE  align="center <em></em>"-->
-<h1>THONG NGUYEN HOANG</h1>
-<p>Network Engineer · IT Help Desk · Cloud &amp; Java</p>
-
 <!-- BANNER (auto light/dark) -->
 <p align="center">
   <picture>
@@ -36,6 +32,12 @@
   <a href="#toolbelt">Toolbelt</a> ·
   <a href="#contact">Contact</a>
 </p>
+
+---
+
+<!-- NAME + TAGLINE  align="center <em></em>"-->
+<h1>THONG NGUYEN HOANG</h1>
+<p>Network Engineer · IT Help Desk · Cloud &amp; Java</p>
 
 ---
 
