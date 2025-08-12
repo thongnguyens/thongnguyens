@@ -40,9 +40,9 @@
   <a href="#contact">Contact</a>
 </p>
 
----
-
 # THONG NGUYEN HOANG
+
+---
 
 ## About
 
