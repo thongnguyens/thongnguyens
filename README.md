@@ -131,7 +131,14 @@ curl -s -o /dev/null -w "%{http_code}
 
 ## Contact
 
-- Email: <a href="mailto:thongnguyenslife@gmail.com">thongnguyenslife@gmail.com</a>  
-- GitHub: <a href="https://github.com/thongnguyenslife">@thongnguyenslife</a>
+<p align="center">
+  <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email THONG NGUYEN HOANG">
+    thongnguyenslife@gmail.com
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/thongnguyenslife" aria-label="GitHub @thongnguyenslife" rel="me">
+    github.com/thongnguyenslife
+  </a>
+</p>
 
 <!-- End of README -->
