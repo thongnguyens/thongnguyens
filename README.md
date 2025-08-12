@@ -105,7 +105,7 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 ## Roadmap
 
 - Advanced network troubleshooting (packet capture & analysis) — **▰▰▰▱▱**  
-- Java: testable modules, separate CLI/service, clean packaging — **▰▰▱▱▱**  
+- Java: testable modules, separate CLI/service, clean packaging — **▰▰▰▰▱**  
 - Cloud: least‑privilege IAM, network isolation, cost guardrails — **▰▰▰▱▱**
 
 <!-- End of README -->
