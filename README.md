@@ -11,7 +11,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-blue?logo=gmail">
   </a>
   <a href="https://github.com/thongnguyenslife">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyenslife-black?logo=github">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyenslife-blue?logo=github">
   </a>
   <!-- TODO: Add LinkedIn
   <a href="https://www.linkedin.com/in/your-id">
