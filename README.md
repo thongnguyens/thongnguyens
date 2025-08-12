@@ -41,7 +41,7 @@
   Network Engineer · IT Help Desk · Cloud & Java
 </p>
 
-`Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Monitoring` `DNS/DHCP` `Routing/Switching` `Firewall Basics`
+`Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Bash` `Monitoring` `DNS/DHCP` `Routing/Switching`
 
 ---
 
