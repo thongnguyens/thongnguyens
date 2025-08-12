@@ -6,7 +6,7 @@
 
 <!-- BANNER (static for reliability on GitHub README rendering) -->
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java" />
+  <img src="./assets/banner-animated-marquee.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java" />
 </p>
 
 <!-- QUICK LINKS / BADGES (minimal, accessible, Google-like) -->
