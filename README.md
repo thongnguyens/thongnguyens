@@ -2,10 +2,6 @@
   PROFILE README — THONG NGUYEN HOANG 
   ===================================================== -->
 
-<!-- NAME + TAGLINE -->
-<h1 align="center">THONG NGUYEN HOANG</h1>
-<p align="center"><em>Network Engineer · IT Help Desk · Cloud &amp; Java</em></p>
-
 <!-- BANNER (auto light/dark) -->
 <p align="center">
   <picture>
@@ -36,6 +32,12 @@
   <a href="#toolbelt">Toolbelt</a> ·
   <a href="#contact">Contact</a>
 </p>
+
+---
+
+<!-- NAME + TAGLINE -->
+<h1 align="center">THONG NGUYEN HOANG</h1>
+<p align="center"><em>Network Engineer · IT Help Desk · Cloud &amp; Java</em></p>
 
 ---
 
