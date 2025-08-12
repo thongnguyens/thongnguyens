@@ -28,7 +28,6 @@
 <p align="center">
   <a href="#about">About</a> ·
   <a href="#signature-projects">Projects</a> ·
-  <a href="#skill-matrix">Skills</a> ·
   <a href="#tech-stack">Tech</a> ·
   <a href="#principles">Principles</a> ·
   <a href="#roadmap">Roadmap</a> ·
@@ -44,6 +43,10 @@
   <em>Network Engineer · IT Help Desk · Cloud & Java</em>
 </p>
 
+### Highlights At A Glance
+
+`Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Monitoring` `DNS/DHCP` `Routing/Switching` `Firewall Basics`
+
 ---
 
 ## About Me
@@ -55,14 +58,6 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 - **Work style:** measure → automate → document  
 
 > **Belief:** Simple, observable systems fail less and recover faster.
-
----
-
-### Highlights At A Glance
-
-`Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Monitoring` `DNS/DHCP` `Routing/Switching` `Firewall Basics`
-
----
 
 ## Signature Projects
 
