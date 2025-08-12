@@ -48,7 +48,7 @@
 ## About Me
 
 I build dependable network foundations, resolve end‑user issues quickly, and write small tools that remove toil. 
-Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
+<br> Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
 
 - **Interests:** troubleshooting, incident hygiene, low‑friction runbooks.  
 - **Learning now:** IAM basics, VPC/VNet patterns, secure‑by‑default.  
