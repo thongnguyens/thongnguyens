@@ -2,9 +2,9 @@
   PROFILE README — THONG NGUYEN HOANG (HR separators + fixed table)
   ===================================================== -->
 
-<!-- NAME + TAGLINE -->
-<h1 align="center">THONG NGUYEN HOANG</h1>
-<p align="center"><em>Network Engineer · IT Help Desk · Cloud &amp; Java</em></p>
+<!-- NAME + TAGLINE  align="center <em></em>"-->
+<h1>THONG NGUYEN HOANG</h1>
+<p>Network Engineer · IT Help Desk · Cloud &amp; Java</p>
 
 <!-- BANNER (auto light/dark) -->
 <p align="center">
@@ -87,29 +87,29 @@ I build dependable network foundations, resolve end‑user issues quickly, and s
   </thead>
   <tbody>
     <tr>
-      <td><strong>Networking</strong></td>
-      <td>TCP/IP, VLANs, routing/switching, DNS/DHCP, basic firewalling, monitoring</td>
-      <td align="center">★★★★☆</td>
+      <td valign="top"><strong>Networking</strong></td>
+      <td valign="top">TCP/IP, VLANs, routing/switching, DNS/DHCP, basic firewalling, monitoring</td>
+      <td align="center"><span title="4 of 5">★★★★☆</span></td>
     </tr>
     <tr>
-      <td><strong>IT Help Desk</strong></td>
-      <td>ticket lifecycle &amp; SLA, endpoint support, asset onboarding/offboarding, KB</td>
-      <td align="center">★★★★☆</td>
+      <td valign="top"><strong>IT Help Desk</strong></td>
+      <td valign="top">ticket lifecycle &amp; SLA, endpoint support, asset onboarding/offboarding, KB</td>
+      <td align="center"><span title="4 of 5">★★★★☆</span></td>
     </tr>
     <tr>
-      <td><strong>Cloud (Foundations)</strong></td>
-      <td>IAM principles, VPC/VNet, logging/monitoring, cost basics</td>
-      <td align="center">★★★☆☆</td>
+      <td valign="top"><strong>Cloud (Foundations)</strong></td>
+      <td valign="top">IAM principles, VPC/VNet, logging/monitoring, cost basics</td>
+      <td align="center"><span title="3 of 5">★★★☆☆</span></td>
     </tr>
     <tr>
-      <td><strong>Java for Ops</strong></td>
-      <td>CLI utilities, HTTP/DNS checks, file/report generation</td>
-      <td align="center">★★★☆☆</td>
+      <td valign="top"><strong>Java for Ops</strong></td>
+      <td valign="top">CLI utilities, HTTP/DNS checks, file/report generation</td>
+      <td align="center"><span title="3 of 5">★★★☆☆</span></td>
     </tr>
     <tr>
-      <td><strong>Workflow</strong></td>
-      <td>Git, lightweight CI (lint/test), clear READMEs &amp; runbooks</td>
-      <td align="center">★★★★☆</td>
+      <td valign="top"><strong>Workflow</strong></td>
+      <td valign="top">Git, lightweight CI (lint/test), clear READMEs &amp; runbooks</td>
+      <td align="center"><span title="4 of 5">★★★★☆</span></td>
     </tr>
   </tbody>
 </table>
