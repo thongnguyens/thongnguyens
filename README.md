@@ -101,7 +101,7 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 - Advanced network troubleshooting (packet capture & analysis) — **▰▰▰▱▱**  
 - Java: testable modules, separate CLI/service, clean packaging — **▰▰▰▰▱**  
-- Cloud: least‑privilege IAM, network isolation, cost guardrails — **▰▰▰▱▱**
+- Cloud: least‑privilege IAM, network isolation & cost guardrails — **▰▰▰▱▱**
 
 ---
 
