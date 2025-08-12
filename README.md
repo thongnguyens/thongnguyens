@@ -24,16 +24,6 @@
   </a> -->
 </p>
 
-<!-- NAVIGATION -->
-<p align="center">
-  <a href="#about">About</a> ·
-  <a href="#signature-projects">Projects</a> ·
-  <a href="#tech-stack">Tech</a> ·
-  <a href="#principles">Principles</a> ·
-  <a href="#roadmap">Roadmap</a> .
-  <a href="#contacts">Contacts</a>
-</p>
-
 <p align="center">
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="36" title="Java" alt="Java logo"/>
@@ -51,6 +41,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="36" title="IntelliJ IDEA" alt="IntelliJ IDEA logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="36" title="VS Code" alt="VS Code logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="36" title="Jira" alt="Jira logo"/>
+</p>
+
+<!-- NAVIGATION -->
+<p align="center">
+  <a href="#about">About</a> ·
+  <a href="#signature-projects">Projects</a> ·
+  <a href="#principles">Principles</a> ·
+  <a href="#roadmap">Roadmap</a> .
+  <a href="#contacts">Contacts</a>
 </p>
 
 ---
@@ -87,11 +86,6 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 - **cloud-lab-notes** – vendor‑neutral cloud fundamentals & hands‑on labs.  
   _Status:_ Updating · <https://github.com/thongnguyenslife>
-
----
-
-## Tech Stack
-
 
 ---
 
