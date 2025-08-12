@@ -59,7 +59,7 @@
 # THONG NGUYEN HOANG
 
 <p>
-  Network Engineer · IT Help Desk · Cloud & Java
+  _Network Engineer · IT Help Desk · Cloud & Java_
 </p>
 
 `Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Bash` `Monitoring` `DNS/DHCP` `Routing/Switching`
@@ -74,7 +74,7 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 - **Learning now:** IAM basics, VPC/VNet patterns, secure‑by‑default.  
 - **Work style:** measure → automate → document.  
 
-> **Belief:** Simple, observable systems fail less and recover faster.
+_> **Belief:** Simple, observable systems fail less and recover faster._
 
 ---
 
@@ -98,7 +98,7 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 - **Share:** post‑incident KB write‑ups.  
 - **Automate:** remove toil with simple, auditable scripts.
 
-> “If it isn’t documented, it didn’t happen. If it isn’t observable, it doesn’t exist.”
+_> “If it isn’t documented, it didn’t happen. If it isn’t observable, it doesn’t exist.”_
 
 ---
 
