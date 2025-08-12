@@ -59,7 +59,7 @@
 # THONG NGUYEN HOANG
 
 <p>
-  _Network Engineer · IT Help Desk · Cloud & Java_
+  <em></em>Network Engineer · IT Help Desk · Cloud & Java</em>
 </p>
 
 `Networking` `Help Desk` `Cloud (Foundations)` `Java CLI` `Git` `Bash` `Monitoring` `DNS/DHCP` `Routing/Switching`
