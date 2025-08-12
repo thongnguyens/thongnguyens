@@ -56,16 +56,7 @@ I build dependable network foundations, resolve end-user issues fast, and write 
 
 - **helpdesk-kb-playbook**
   _Status:_ Draft · <!-- TODO: replace with real link --> <https://github.com/thongnguyenslife>
-| Code | Name                    | What it means                                                     | Typical causes                                        | What to do                                            |
-|-----:|-------------------------|-------------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|
-| 200  | OK                      | Request succeeded.                                                | Everything is fine.                                    | No action needed.                                     |
-| 301  | Moved Permanently       | Resource moved to a new URL (`Location` header). Clients cache it.| Canonical/HTTPS redirect, trailing slash fix.          | Update links; use `curl -L` to follow. Consider **308** to preserve method. |
-| 302  | Found                   | Temporary redirect to another URL.                                | Load balancing, temporary resource move.               | Use `curl -L` to follow; don’t update stored links unless permanent. |
-| 308  | Permanent Redirect      | Like 301 but preserves method and body.                           | API route migration, strict HTTP spec.                  | Update links if permanent. Use instead of 301 for POST/PUT. |
-| 403  | Forbidden               | Server understands request but refuses to authorize.              | AuthN/AuthZ failure, IP/region block.                   | Check API key/token, user permissions, firewall rules. |
-| 404  | Not Found               | Server reachable, but the path/resource doesn’t exist.            | Typo path, route not mapped, file removed.              | Check routes, static paths, rewrite rules, base URL.  |
-| 500  | Internal Server Error   | Server error/exception while handling the request.                | App crash, misconfig, dependency failure.               | Inspect app/proxy logs; check DB/services; roll back. |
-| 502  | Bad Gateway             | Gateway/Proxy received invalid response from upstream server.     | Upstream app down, wrong upstream config, TLS issues
+  
 - **cloud-lab-notes** <!-- – Vendor-neutral notes: IAM, VPC/VNet, logging/monitoring, cost guardrails. -->
   _Status:_ Updating · <!-- TODO: replace with real link --> <https://github.com/thongnguyenslife>
 
