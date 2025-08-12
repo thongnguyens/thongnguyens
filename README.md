@@ -135,19 +135,21 @@ I build dependable network foundations, resolve end-user issues fast, and write 
 # Quick HTTP check (returns status code)
 curl -s -o /dev/null -w "%{http_code}\n" https://google.com
 
-### HTTP Status Quick Reference
-
+# HTTP Status Quick Reference
 Quick meanings for common response codes when troubleshooting with `curl`.
 
-| Code | Name                    | What it means                                                     | Typical causes                                        | What to do                                            |
-|-----:|-------------------------|-------------------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|
-| 200  | OK                      | Request succeeded.                                                | Everything is fine.                                    | No action needed.                                     |
-| 301  | Moved Permanently       | Resource moved to a new URL (`Location` header). Clients cache it.| Canonical/HTTPS redirect, trailing slash fix.          | Update links; use `curl -L` to follow. Consider **308** to preserve method. |
-| 302  | Found                   | Temporary redirect to another URL.                                | Load balancing, temporary resource move.               | Use `curl -L` to follow; don’t update stored links unless permanent. |
-| 308  | Permanent Redirect      | Like 301 but preserves method and body.                           | API route migration, strict HTTP spec.                  | Update links if permanent. Use instead of 301 for POST/PUT. |
-| 403  | Forbidden               | Server understands request but refuses to authorize.              | AuthN/AuthZ failure, IP/region block.                   | Check API key/token, user permissions, firewall rules. |
-| 404  | Not Found               | Server reachable, but the path/resource doesn’t exist.            | Typo path, route not mapped, file removed.              | Check routes, static paths, rewrite rules, base URL.  |
-| 500  | Internal Server Error   | Server error/exception while handling the request.                | App crash, misconfig, dependency failure.               | Inspect app/proxy logs; check DB/services; roll back. |
-| 502  | Bad Gateway             | Gateway/Proxy received invalid response from upstream server.     | Upstream app down, wrong upstream config, TLS issues
+| Code | Name                  | Meaning                                           | Action                                   |
+|-----:|-----------------------|---------------------------------------------------|------------------------------------------|
+| 200  | OK                    | Success.                                          | No action needed.                        |
+| 301  | Moved Permanently     | Permanent redirect to new URL.                    | Update links; use `curl -L` to follow.   |
+| 302  | Found                 | Temporary redirect.                               | Use `curl -L` to follow.                 |
+| 308  | Permanent Redirect    | Like 301 but keeps method/body.                   | Update links; good for POST/PUT.         |
+| 403  | Forbidden             | Request understood but not authorized.            | Check permissions / firewall.            |
+| 404  | Not Found             | Resource/path doesn’t exist.                      | Check route/path, rewrite rules.         |
+| 500  | Internal Server Error | Server error/exception.                           | Check logs, config, dependencies.        |
+| 502  | Bad Gateway           | Invalid response from upstream.                   | Check upstream service/proxy.            |
+| 503  | Service Unavailable   | Temporarily overloaded or down.                   | Retry, scale, check maintenance.         |
+| 504  | Gateway Timeout       | Upstream didn’t respond in time.                   | Check timeouts, optimize upstream.       |
+
 
  
