@@ -1,10 +1,8 @@
-<!--
-  Professional Profile README — THONG NGUYEN HOANG
-  Focus: Network Engineer · IT Help Desk · Cloud & Java
-  Notes:
-    - Replace links/IDs marked TODO if needed
-    - Keep badges lightweight for fast load
--->
+<!-- BANNER -->
+<p align="center">
+  <!-- If you put the file under /assets/, change src to ./assets/banner-thongnguyen.svg -->
+  <img src="./assets/banner-thongnguyen.svg" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java" width="100%">
+</p>
 
 <!-- HERO -->
 <h1 align="center">THONG NGUYEN HOANG</h1>
@@ -20,6 +18,7 @@
   <a href="https://www.linkedin.com/in/your-id">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?logo=linkedin">
   </a> -->
+  <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&label=Visitors&style=flat&color=0e75b6" alt="Profile views" />
 </p>
 <p align="center"><i>Reliable networks. Clear runbooks. Practical automation.</i></p>
 
@@ -55,6 +54,15 @@ I build dependable network foundations, resolve end-user issues fast, and write 
 
 ## <span id="projects">Signature Projects</span>
 
+- **network-diagnose-cli (Java)** – One-command checks: ping · traceroute · DNS · HTTP; exports txt/md reports.  
+  _Status:_ WIP · <!-- TODO: replace with real link --> <https://github.com/thongnguyenslife>
+
+- **helpdesk-kb-playbook** – Templates for intake → triage → fix/esc → post-incident notes.  
+  _Status:_ Draft · <!-- TODO: replace with real link --> <https://github.com/thongnguyenslife>
+
+- **cloud-lab-notes** – Vendor-neutral notes: IAM, VPC/VNet, logging/monitoring, cost guardrails.  
+  _Status:_ Updating · <!-- TODO: replace with real link --> <https://github.com/thongnguyenslife>
+
 <details>
   <summary><b>Why these matter</b></summary>
   These projects turn repetitive troubleshooting into predictable, documented workflows and make incident recovery faster and less error-prone.
@@ -73,6 +81,32 @@ I build dependable network foundations, resolve end-user issues fast, and write 
 | **Workflow** | Git, lightweight CI (lint/test), clear READMEs & runbooks | ★★★★☆ |
 
 <sub>Legend: ★★★★★ expert · ★★★★☆ strong · ★★★☆☆ solid</sub>
+
+---
+
+## Tech Stack (with icons)
+
+<p align="center">
+  <!-- Languages & Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="36" alt="Java" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="36" alt="Bash" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="36" alt="Git" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" height="36" alt="Ubuntu" title="Ubuntu"/>
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS" title="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="36" alt="Google Cloud" title="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="36" alt="Azure" title="Azure"/>
+  <!-- Tooling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="36" alt="Maven" title="Maven"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain.svg" height="36" alt="Gradle" title="Gradle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="36" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="36" alt="VS Code" title="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="36" alt="Jira" title="Jira"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="36" alt="Markdown" title="Markdown"/>
+  <!-- Optional -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="36" alt="Docker" title="Docker"/>
+</p>
 
 ---
 
