@@ -34,6 +34,25 @@
   <a href="#contacts">Contacts</a>
 </p>
 
+<p align="center">
+  <!-- Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="36" title="Java" alt="Java logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="36" title="Bash" alt="Bash logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="36" title="Git" alt="Git logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="36" title="Linux" alt="Linux logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" height="36" title="Ubuntu" alt="Ubuntu logo"/>
+  <!-- Cloud -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="36" title="Google Cloud" alt="Google Cloud logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="36" title="Azure" alt="Azure logo"/>
+  <!-- Tooling -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="36" title="Markdown" alt="Markdown logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="36" title="Docker" alt="Docker logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="36" title="Maven" alt="Maven logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="36" title="IntelliJ IDEA" alt="IntelliJ IDEA logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="36" title="VS Code" alt="VS Code logo"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="36" title="Jira" alt="Jira logo"/>
+</p>
+
 ---
 
 # THONG NGUYEN HOANG
@@ -73,24 +92,6 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 ## Tech Stack
 
-<p align="center">
-  <!-- Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="36" title="Java" alt="Java logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="36" title="Bash" alt="Bash logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="36" title="Git" alt="Git logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="36" title="Linux" alt="Linux logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" height="36" title="Ubuntu" alt="Ubuntu logo"/>
-  <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="36" title="Google Cloud" alt="Google Cloud logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="36" title="Azure" alt="Azure logo"/>
-  <!-- Tooling -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" height="36" title="Markdown" alt="Markdown logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="36" title="Docker" alt="Docker logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="36" title="Maven" alt="Maven logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="36" title="IntelliJ IDEA" alt="IntelliJ IDEA logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="36" title="VS Code" alt="VS Code logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="36" title="Jira" alt="Jira logo"/>
-</p>
 
 ---
 
