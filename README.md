@@ -11,7 +11,7 @@
 
 <!-- QUICK LINKS / BADGES (minimal, accessible, Google-like, color = 0e75b6) -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&label=Visitors&style=flat&color=green" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&label=Visitors&style=flat&color=blue" alt="Profile views" />
   <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">
     <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-1a73e8?logo=gmail&logoColor=red&style=flat"/>
   </a>
