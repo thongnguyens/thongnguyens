@@ -113,17 +113,17 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 ---
 
-## 📜 License
+## 📜 License Statement
 
-Phát hành theo giấy phép MIT. Xem file `LICENSE` (nếu có) hoặc thêm sau.
+Released under the MIT License. Please refer to the LICENSE file (if included), or add one as needed.
 
----
-
-**Liên hệ / Góp ý:** vui lòng mở Issue trên GitHub hoặc để lại comment trong PR. Chúc bạn học tốt! 🚀
+> “The MIT License is widely known for being concise and permissive, giving users the freedom to use, modify, and distribute the software under minimal restrictions. The only requirement is to include the original copyright and license notice in all copies or significant portions of the software.“
 
 ---
 
-## Contacts
+## Contacts / Feedbacks
+
+**Contact / Feedback:** Please open an Issue on Gmail, GitHub or leave a comment in a PR. Contributions through Issues—such as bug reports, suggestions, or documentation fixes—are always welcome! 🚀
 
 <!-- QUICK LINKS / BADGES (minimal, accessible, Google-like) -->
 <p align="center">
