@@ -76,8 +76,8 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
   _Status:_ Updating · <https://github.com/thongnguyenslife>
 
 <details>
-  <summary><b>Why these matter</b></summary>
-  They turn repetitive troubleshooting into predictable, documented workflows, making recovery faster and less error‑prone.
+  <summary>Why these matter</summary>
+ > They turn repetitive troubleshooting into predictable, documented workflows, making recovery faster and less error‑prone.
 </details>
 
 ---
