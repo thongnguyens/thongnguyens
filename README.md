@@ -81,7 +81,7 @@ I build dependable network foundations, resolve end-user issues fast, and write 
 
 ---
 
-## Tech Stack (with icons)
+## Tech Stack
 
 <p align="center">
   <!-- Languages & Core -->
@@ -91,12 +91,10 @@ I build dependable network foundations, resolve end-user issues fast, and write 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="36" alt="Linux" title="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" height="36" alt="Ubuntu" title="Ubuntu"/>
   <!-- Cloud -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS" title="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="36" alt="Google Cloud" title="Google Cloud"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="36" alt="Azure" title="Azure"/>
   <!-- Tooling -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" height="36" alt="Maven" title="Maven"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain.svg" height="36" alt="Gradle" title="Gradle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" height="36" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="36" alt="VS Code" title="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="36" alt="Jira" title="Jira"/>
