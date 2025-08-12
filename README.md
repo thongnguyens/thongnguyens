@@ -47,7 +47,8 @@
 
 ## About Me
 
-I build dependable network foundations, resolve end‑user issues quickly, and write small tools that remove toil. Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
+I build dependable network foundations, resolve end‑user issues quickly, and write small tools that remove toil. 
+Currently deepening **cloud fundamentals** and using **Java** for ops tooling (diagnostics, checks, reporting).
 
 - **Interests:** troubleshooting, incident hygiene, low‑friction runbooks.  
 - **Learning now:** IAM basics, VPC/VNet patterns, secure‑by‑default.  
@@ -106,8 +107,8 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 ## Roadmap
 
-- Advanced network troubleshooting (packet capture & analysis). — **▰▰▰▱▱**  
-- Java: testable modules, separate CLI/service, clean packaging. — **▰▰▰▰▱**  
-- Cloud: least‑privilege IAM, network isolation, cost guardrails. — **▰▰▰▱▱**
+- Advanced network troubleshooting (packet capture & analysis) — **▰▰▰▱▱**  
+- Java: testable modules, separate CLI/service, clean packaging — **▰▰▰▰▱**  
+- Cloud: least‑privilege IAM, network isolation, cost guardrails — **▰▰▰▱▱**
 
 <!-- End of README -->
