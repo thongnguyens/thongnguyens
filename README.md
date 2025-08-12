@@ -110,4 +110,5 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 - Java: testable modules, separate CLI/service, clean packaging — **▰▰▰▰▱**  
 - Cloud: least‑privilege IAM, network isolation, cost guardrails — **▰▰▰▱▱**
 
+---
 <!-- End of README -->
