@@ -80,9 +80,9 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 
 ## Signature Projects
 
-- **[CCNA 200-301 Packet Tracer Labs](https://github.com/thongnguyens/ccna-200-301)** – CCNA Exam Topics — Packet Tracer Labs & Instructor Slides (v7 / 200‑301).
-- **[helpdesk-kb-playbook](https://github.com/thongnguyenslife/helpdesk-kb-playbook)** – templates for intake → triage → fix/esc → post-incident notes.
-- **[cloud-lab-notes](https://github.com/thongnguyenslife/cloud-lab-notes)** – vendor-neutral cloud fundamentals & hands-on labs.
+- **[CCNA 200-301 Packet Tracer Labs](https://github.com/thongnguyens/ccna-200-301)** – CCNA 200-301 Packet Tracer labs & instructor slides (v7 / 200‑301).
+- **[Ubuntu Setup Optimization](https://github.com/thongnguyens/ubuntu-setup-optimization/)** – Ubuntu setup & optimization: Snap-free, fonts/input, browsers, security, VMs.
+- **[OSS Licensing Template](https://github.com/thongnguyens/oss-licensing-template)** – Template for GitHub project licensing, copyright & attribution.
 
 ---
 
