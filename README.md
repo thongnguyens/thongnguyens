@@ -113,8 +113,9 @@ Please open an Issue on Gmail, GitHub or leave a comment in a PR. Contributions 
 <br>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thongnguyenslife&label=Visitors&style=flat&logoColor=0e75b6" alt="Profile views" />
   <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">
-    <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-1a73e8?logo=gmail&logoColor=0e75b6&style=flat"/>
+    <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-1a73e8?logo=gmail&logoColor=white&style=flat"/>
   </a>
   <a href="https://github.com/thongnguyenslife" aria-label="GitHub Profile">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyenslife-1a73e8?logo=github&logoColor=white&style=flat"/>
