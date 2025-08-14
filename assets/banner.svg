@@ -1,3 +1,4 @@
+<!--
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="1600" height="400" viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -21,6 +22,74 @@
     </filter>
   </defs>
 
+  <rect width="1600" height="400" fill="#FFFFFF"/>
+
+
+  <g opacity="0.9">
+
+    <g class="accent-left" transform="translate(96,320) rotate(-12)">
+      <rect x="-160" y="-18" width="320" height="36" fill="#DB4437" rx="18"/>
+      <rect x="-100" y="-56" width="200" height="20" fill="#DB4437" opacity="0.35" rx="10"/>
+    </g>
+ 
+    <g class="accent-right" transform="translate(1470,90) rotate(12)">
+      <rect x="-160" y="-18" width="320" height="36" fill="#DB4437" rx="18"/>
+      <rect x="-100" y="-56" width="200" height="20" fill="#DB4437" opacity="0.35" rx="10"/>
+    </g>
+  </g>
+
+  <g transform="translate(1320,200)">
+    <circle r="70" fill="#FFFFFF"/>
+    <circle r="70" stroke="#DB4437" stroke-width="8" fill="none" opacity="0.18"/>
+ 
+    <path class="mono-stroke" d="
+      M -40 -28 H 40
+      M 0 -28 V 42
+      M 0 42 L 40 -28" />
+  </g>
+
+
+  <text x="800.0" y="130" text-anchor="middle" class="title">THONG NGUYEN HOANG</text>
+  <text x="800.0" y="185" text-anchor="middle" class="subtitle">Network Engineer · IT Help Desk · Cloud &amp; Java</text>
+
+
+  <g transform="translate(550.0, 218)">
+    <rect class="bar-base" x="0" y="0" width="500" height="8"/>
+    <rect class="bar-fill" x="160" y="0" width="0" height="8"/>
+  </g>
+
+  <g opacity="0.35">
+    <g style="animation: float1 5s ease-in-out infinite;">
+      <circle cx="160" cy="320" r="70" fill="#FFF5F2"/>
+      <circle cx="210" cy="305" r="40" fill="#FFEAE6"/>
+    </g>
+    <g style="animation: float2 6s ease-in-out infinite;">
+      <circle cx="1490" cy="80" r="90" fill="#F8FBFF"/>
+      <circle cx="1535" cy="110" r="55" fill="#EDF9F3"/>
+    </g>
+  </g>
+</svg>
+
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1600" height="400" viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style><![CDATA[
+      @keyframes slideInLeft { from { transform: translateX(-140px) rotate(-12deg); opacity: 0; } to { transform: translateX(0) rotate(-12deg); opacity: 1; } }
+      @keyframes slideInRight { from { transform: translateX(140px) rotate(12deg); opacity: 0; } to { transform: translateX(0) rotate(12deg); opacity: 1; } }
+      @keyframes drawStroke { from { stroke-dashoffset: 520; } to { stroke-dashoffset: 0; } }
+      @keyframes float1 { 0% { transform: translateY(0px); opacity: .2; } 50% { transform: translateY(-10px); opacity: .45; } 100% { transform: translateY(0px); opacity: .2; } }
+      @keyframes float2 { 0% { transform: translateY(0px); opacity: .2; } 50% { transform: translateY(12px); opacity: .45; } 100% { transform: translateY(0px); opacity: .2; } }
+      @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.06); } 100% { transform: scale(1); } }
+      .accent-left { animation: slideInLeft 900ms ease-out forwards; transform-origin: left center; }
+      .accent-right { animation: slideInRight 900ms ease-out forwards; transform-origin: right center; }
+      .mono-stroke { stroke: #DB4437; stroke-width: 8; fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 520; animation: drawStroke 1.2s ease-out .15s forwards; }
+      .title { font: 800 56px/1.2 Inter, Roboto, Arial, Helvetica, sans-serif; fill: #202124; letter-spacing: 1.4px; }
+      .subtitle { font: 500 26px/1.4 Inter, Roboto, Arial, Helvetica, sans-serif; fill: #6B7280; }
+    ]]></style>
+  </defs>
+
   <!-- Nền trắng -->
   <rect width="1600" height="400" fill="#FFFFFF"/>
 
@@ -38,25 +107,26 @@
     </g>
   </g>
 
-  <!-- Vòng tròn monogram TN (vẽ nét động) -->
+  <!-- Vòng tròn monogram TN (vẽ nét động + pulse) -->
   <g transform="translate(1320,200)">
-    <circle r="70" fill="#FFFFFF"/>
-    <circle r="70" stroke="#DB4437" stroke-width="8" fill="none" opacity="0.18"/>
-    <!-- Monoline TN ligature -->
-    <path class="mono-stroke" d="
-      M -40 -28 H 40
-      M 0 -28 V 42
-      M 0 42 L 40 -28" />
+    <g style="animation: pulse 3.2s ease-in-out .6s infinite;">
+      <circle r="70" fill="#FFFFFF"/>
+      <circle r="70" stroke="#DB4437" stroke-width="8" fill="none" opacity="0.18"/>
+      <!-- Monoline TN ligature -->
+      <path class="mono-stroke" d="M -40 -28 H 40 M 0 -28 V 42 M 0 42 L 40 -28" />
+    </g>
   </g>
 
   <!-- Tên + phụ đề ở giữa theo lockup ngang -->
-  <text x="800.0" y="130" text-anchor="middle" class="title">THONG NGUYEN HOANG</text>
-  <text x="800.0" y="185" text-anchor="middle" class="subtitle">Network Engineer · IT Help Desk · Cloud &amp; Java</text>
+  <text x="800" y="130" text-anchor="middle" class="title">THONG NGUYEN HOANG</text>
+  <text x="800" y="185" text-anchor="middle" class="subtitle">Network Engineer · IT Help Desk · Cloud &amp; Java</text>
 
-  <!-- Thanh nhấn dưới phụ đề -->
-  <g transform="translate(550.0, 218)">
-    <rect class="bar-base" x="0" y="0" width="500" height="8"/>
-    <rect class="bar-fill" x="160" y="0" width="0" height="8"/>
+  <!-- Thanh nhấn dưới phụ đề: base nhạt + fill đỏ chạy full -->
+  <g transform="translate(550, 218)">
+    <rect x="0" y="0" width="500" height="8" rx="4" fill="#EDEFF3"/>
+    <rect x="0" y="0" width="0" height="8" rx="4" fill="#DB4437">
+      <animate attributeName="width" from="0" to="500" dur="1.1s" begin="0.35s" fill="freeze" />
+    </rect>
   </g>
 
   <!-- Bubbles mờ nhẹ tạo chiều sâu -->
