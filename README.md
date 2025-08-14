@@ -4,9 +4,9 @@
   - If you want the typing banner instead, change the src below to banner-animated-typing.svg
   ===================================================== -->
 
-<!-- BANNER (static for reliability on GitHub README rendering) -->
+<!-- BANNER (static for reliability on GitHub README rendering) banner-animated-marquee.svg -->
 <p align="center">
-  <img src="./assets/banner-animated-marquee.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java" />
+  <img src="./assets/banner.svg" width="100%" alt="THONG NGUYEN HOANG — Network Engineer · IT Help Desk · Cloud & Java" />
 </p>
 
 <!-- QUICK LINKS / BADGES (minimal, accessible, Google-like, color = 0e75b6) -->
