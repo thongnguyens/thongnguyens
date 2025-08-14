@@ -47,13 +47,25 @@
 ---
 
 <!-- NAVIGATION -->
+<!-- NAVIGATION (TN Red #DB4437) -->
 <p align="center">
-  <a href="#about">About</a> ·
-  <a href="#signature-projects">Projects</a> ·
-  <a href="#principles">Principles</a> ·
-  <a href="#roadmap">Roadmap</a> .
-  <a href="#contacts">Contacts</a>
+  <a href="#about" aria-label="About">
+    <img alt="About" src="https://img.shields.io/badge/About-.-DB4437?style=flat&labelColor=202124"/>
+  </a>
+  <a href="#signature-projects" aria-label="Projects">
+    <img alt="Projects" src="https://img.shields.io/badge/Projects-.-DB4437?style=flat&labelColor=202124"/>
+  </a>
+  <a href="#principles" aria-label="Principles">
+    <img alt="Principles" src="https://img.shields.io/badge/Principles-.-DB4437?style=flat&labelColor=202124"/>
+  </a>
+  <a href="#roadmap" aria-label="Roadmap">
+    <img alt="Roadmap" src="https://img.shields.io/badge/Roadmap-.-DB4437?style=flat&labelColor=202124"/>
+  </a>
+  <a href="#contacts" aria-label="Contacts">
+    <img alt="Contacts" src="https://img.shields.io/badge/Contacts-.-DB4437?style=flat&labelColor=202124"/>
+  </a>
 </p>
+
 
 ---
 
@@ -80,11 +92,25 @@ I build dependable network foundations, resolve end‑user issues quickly, and w
 ---
 
 ## Signature Projects
+<p>
+  <a href="https://github.com/thongnguyens/ccna-200-301" aria-label="CCNA 200-301 Packet Tracer Labs">
+    <img alt="CCNA Labs" src="https://img.shields.io/badge/CCNA%20200--301%20Labs-DB4437?style=flat&labelColor=202124"/>
+  </a>
+  – CCNA 200-301 Packet Tracer labs & instructor slides (v7 / 200-301).
+</p>
+<p>
+  <a href="https://github.com/thongnguyens/ubuntu-setup-optimization" aria-label="Ubuntu Setup Optimization">
+    <img alt="Ubuntu Setup" src="https://img.shields.io/badge/Ubuntu%20Setup%20Optimization-DB4437?style=flat&labelColor=202124"/>
+  </a>
+  – Ubuntu setup & optimization: Snap-free, fonts/input, browsers, security, VMs.
+</p>
 
-- **[CCNA 200-301 Packet Tracer Labs](https://github.com/thongnguyens/ccna-200-301)** – CCNA 200-301 Packet Tracer labs & instructor slides (v7 / 200‑301).
-- **[Ubuntu Setup Optimization](https://github.com/thongnguyens/ubuntu-setup-optimization/)** – Ubuntu setup & optimization: Snap-free, fonts/input, browsers, security, VMs.
-- **[WireGuard AdGuard Home Guide](https://github.com/thongnguyens/wireguard-adguardhome-guide)** – Guide to deploying WireGuard VPN and AdGuard Home on Ubuntu.
-
+<p>
+  <a href="https://github.com/thongnguyens/wireguard-adguardhome-guide" aria-label="WireGuard AdGuard Home Guide">
+    <img alt="WireGuard AdGuard" src="https://img.shields.io/badge/WireGuard%20AdGuard%20Guide-DB4437?style=flat&labelColor=202124"/>
+  </a>
+  – Guide to deploying WireGuard VPN and AdGuard Home on Ubuntu.
+</p>
 
 ---
 
