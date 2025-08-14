@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2560" height="1440" viewBox="0 0 2560 1440" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style><![CDATA[
+      @keyframes slideInLeft { from { transform: translateX(-256.0px) rotate(-12deg); opacity: 0; } to { transform: translateX(0) rotate(-12deg); opacity: 1; } }
+      @keyframes slideInRight { from { transform: translateX(256.0px) rotate(12deg); opacity: 0; } to { transform: translateX(0) rotate(12deg); opacity: 1; } }
+      @keyframes drawStroke { from { stroke-dashoffset: 520; } to { stroke-dashoffset: 0; } }
+      .accent-left { animation: slideInLeft 900ms ease-out forwards; transform-origin: left center; }
+      .accent-right { animation: slideInRight 900ms ease-out forwards; transform-origin: right center; }
+      .mono-stroke { stroke: #DB4437; stroke-width: 12.80; fill: none; stroke-linecap: round; stroke-linejoin: round; stroke-dasharray: 520; animation: drawStroke 1.6s ease-out .35s forwards; }
+      .title { font: 800 165.6px/1.2 Inter, Roboto, Arial, Helvetica, sans-serif; fill: #202124; letter-spacing: 4.32px; }
+      .subtitle { font: 500 76.3px/1.4 Inter, Roboto, Arial, Helvetica, sans-serif; fill: #6B7280; }
+    ]]></style>
+  </defs>
+
+  <!-- Nền -->
+  <rect width="2560" height="1440" fill="#FFFFFF"/>
+
+  <!-- Accents chéo đỏ hai góc -->
+  <g opacity="0.95">
+    <g class="accent-left" transform="translate(153.6,1123.2) rotate(-12)">
+      <rect x="-512.0" y="-64.8" width="1024.0" height="129.6" rx="64.8" fill="#DB4437"/>
+      <rect x="-307.2" y="-201.6" width="614.4" height="72.0" rx="36.0" fill="#DB4437" opacity="0.35"/>
+    </g>
+    <g class="accent-right" transform="translate(2355.2,316.8) rotate(12)">
+      <rect x="-512.0" y="-64.8" width="1024.0" height="129.6" rx="64.8" fill="#DB4437"/>
+      <rect x="-307.2" y="-201.6" width="614.4" height="72.0" rx="36.0" fill="#DB4437" opacity="0.35"/>
+    </g>
+  </g>
+
+  <!-- Monogram TN vẽ nét -->
+  <g transform="translate(2201.6,720.0)">
+    <circle r="216.0" fill="#FFFFFF"/>
+    <circle r="216.0" stroke="#DB4437" stroke-width="11.64" fill="none" opacity="0.18"/>
+    <path class="mono-stroke" d="
+      M -129.6 -86.4 H 129.6
+      M 0 -86.4 V 129.6
+      M 0 129.6 L 129.6 -86.4" />
+  </g>
+
+  <!-- Khối chữ trung tâm -->
+  <text x="1280.0" y="489.6" text-anchor="middle" class="title">THONG NGUYEN HOANG</text>
+  <text x="1280.0" y="676.8" text-anchor="middle" class="subtitle">Doanh nhân · Network Engineer · Cloud &amp; Java</text>
+
+  <!-- Thanh nhấn dưới phụ đề -->
+  <g transform="translate(563.2,820.8)">
+    <rect x="0" y="0" width="1433.6" height="24.5" rx="11.5" fill="#E8EEF9"/>
+    <rect x="768.0" y="0" width="0" height="24.5" rx="11.5" fill="#DB4437">
+      <animate attributeName="width" from="0" to="563.2" dur="1.05s" begin="0.45s" fill="freeze" />
+    </rect>
+  </g>
+
+  <!-- Bubbles mờ nhẹ -->
+  <g opacity="0.35">
+    <circle cx="2380.8" cy="288.0" r="259.2" fill="#ECF2FF"/>
+    <circle cx="2457.6" cy="403.2" r="158.4" fill="#E6F6EF"/>
+    <circle cx="256.0" cy="1123.2" r="216.0" fill="#FFF5F2"/>
+    <circle cx="332.8" cy="1036.8" r="129.6" fill="#FFEAE6"/>
+  </g>
+</svg>
