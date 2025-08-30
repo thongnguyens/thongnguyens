@@ -15,7 +15,7 @@
   <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">
     <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-DB4437?logo=gmail&logoColor=white&labelColor=202124&style=flat"/>
   </a>
-  <a href="https://github.com/thongnguyenslife" aria-label="GitHub Profile">
+  <a href="https://github.com/thongnguyens" aria-label="GitHub Profile">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyenslife-DB4437?logo=github&logoColor=white&labelColor=202124&style=flat"/>
   </a>
   </a>
@@ -143,7 +143,7 @@ Please open an Issue on Gmail, GitHub or leave a comment in a PR. Contributions 
   <a href="mailto:thongnguyenslife@gmail.com" aria-label="Email">
     <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-DB4437?logo=gmail&logoColor=white&labelColor=202124&style=flat"/>
   </a>
-  <a href="https://github.com/thongnguyenslife" aria-label="GitHub Profile">
+  <a href="https://github.com/thongnguyens" aria-label="GitHub Profile">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyenslife-DB4437?logo=github&logoColor=white&labelColor=202124&style=flat"/>
   </a>
   </a>
