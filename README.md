@@ -16,7 +16,7 @@
     <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-DB4437?logo=gmail&logoColor=white&labelColor=202124&style=flat"/>
   </a>
   <a href="https://github.com/thongnguyens" aria-label="GitHub Profile">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyenslife-DB4437?logo=github&logoColor=white&labelColor=202124&style=flat"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyens-DB4437?logo=github&logoColor=white&labelColor=202124&style=flat"/>
   </a>
   </a>
   <!-- Optional: LinkedIn (set your handle)
@@ -144,7 +144,7 @@ Please open an Issue on Gmail, GitHub or leave a comment in a PR. Contributions 
     <img alt="Email" src="https://img.shields.io/badge/Email-thongnguyenslife%40gmail.com-DB4437?logo=gmail&logoColor=white&labelColor=202124&style=flat"/>
   </a>
   <a href="https://github.com/thongnguyens" aria-label="GitHub Profile">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyenslife-DB4437?logo=github&logoColor=white&labelColor=202124&style=flat"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-@thongnguyens-DB4437?logo=github&logoColor=white&labelColor=202124&style=flat"/>
   </a>
   </a>
   <!-- Optional: LinkedIn (set your handle)
